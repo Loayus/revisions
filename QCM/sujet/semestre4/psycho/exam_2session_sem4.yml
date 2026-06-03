@@ -1,0 +1,221 @@
+année: "2024-2025"
+semestre: 4
+matière: "Psychologie"
+QCM: "B"
+Q1:
+  title: "Quelle(s) affirmations(s) est/sont exacte(s) au sujet du trauma crânien (TC) d'après Kosakevitch-Ricbourg, (2006) ?"
+  options:
+    - "La perte ou non de la connaissance."
+    - "Le score de coma de Glashow."
+    - "La présence ou non de lésion intracrânienne au scanner cérébral"
+    - "Le trauma modéré se traduit par une perte de connaissance inférieure à 30 minutes, d'une absence de lésion sur le scanner cérébral, d'un score sur l'échelle d'altération de conscience entre 13 et 15 et d'une amnésie post traumatique inférieur à 24 heures."
+    - "Le TC grave se caractérise par une perte de connaissance prolongée (à partir d'une heure pouvant aller au-delà de 24 heures), l'apparition de lésion dite sévère (lésion cérébelleuse comprise entre 30 et 50 millilitres) sur le scanner cérébral, d'un score sur l'échelle d'altération de conscience inférieur à 9 et d'une amnésie post traumatique supérieure à 24 heures."
+Q2:
+  title: "Quels sont les principaux facteurs de risque du TC ?"
+  options:
+    - "L'âge."
+    - "La consommation excessive de café."
+    - "La consommation excessive de substances psycho-actives."
+    - "La chute."
+    - "Les accidents de la route."
+Q3:
+  title: "Quels sont les différents symptômes selon Bayen (2012) ?"
+  options:
+    - "Déficit de la cognition sociale."
+    - "Lésions médullaires."
+    - "Troubles de l'équilibre."
+    - "Diabète 2."
+    - "Crises articulaires."
+Q4:
+  title: "A propos des commotions liées au sport :"
+  options:
+    - "Il s'agit d'un changement temporaire de la fonction cérébrale après un traumatisme crânien, sans aucun signe de lésion cérébrale visible sur les examens d'imagerie tels que la tomodensitométrie (TDM) ou l'imagerie par résonance magnétique (IRM)."
+    - "Environ 3% de ceux ayant présenté des commotions multiples (même apparemment mineures) développent une encéphalopathie traumatique chronique."
+    - "Dans le trauma chronique, les patients ont des anomalies neurodégénératives structurelles, dont une atrophie corticale, assez semblable à celle de la maladie d'Alzheimer."
+    - "Le syndrome du second choc est une complication rare mais grave de la commotion cérébrale."
+    - "La mortalité du second choc est proche de 70%."
+Q5:
+  title: "Les signes de détérioration de la commotion cérébrale :"
+  options:
+    - "Augmentation du niveau de conscience"
+    - "Déficits neurologiques focaux"
+    - "Vomissements"
+    - "Détérioration de la fonction mentale"
+    - "Convulsions"
+Q6:
+  title: "Quels sont les principaux facteurs de risque de l'accident vasculaire cérébral (AVC) ?"
+  options:
+    - "Le sexe, les femmes sont plus touchées."
+    - "Le vieillissement."
+    - "L'hypocholestérolémie."
+    - "Le tabac."
+    - "L'hypertension artérielle."
+Q7:
+  title: "Quelles affirmations sont exactes concernant les différents domaines des fonctions cognitives ?"
+  options:
+    - "La mémoire épisodique."
+    - "L'attention sélective."
+    - "L'aire tegmentale"
+    - "La dyskinésie"
+    - "La gnosie"
+Q8:
+  title: "À propos des lobes cérébraux :"
+  options:
+    - "L'attention est contrôlée par le lobe temporal."
+    - "La motricité est contrôlée par le lobe pariétal."
+    - "Le langage est contrôlé par l'aire de WERNICKE"
+    - "Le langage écrit est dans le lobe temporal"
+    - "La perception est dans le lobe frontal"
+Q9:
+  title: "À propos de l'activité physique :"
+  options:
+    - "BERNIER montre que les activités d'endurance comme pratiquer trente minutes de vélo par jour favorise une augmentation des neurotransmetteurs et des facteurs de croissance neuronale ce qui favorise une amélioration de l'activation neuronale."
+    - "Northey (2018) montre que sur le plus long terme, l'exercice physique génère une augmentation de la neurogénèse (augmentation de la formation de réseaux de neurones) et de l'angiogenèse (augmentation de la formation de nouveaux vaisseaux sanguins) lorsqu'un individu effectue une tâche cognitive ce qui favorise son efficacité."
+    - "WON (2019) montre qu'une intensité modérée doit être prescrite pour espérer observer une amélioration des fonctions intentionnelles grâce à l'AP. Cette intensité permet d'améliorer l'activité noradrénergique qui affecte les fonctions attentionnelles avec un effet plus important sur l'attention soutenue ainsi qu'une activation plus efficace du cortex préfrontal."
+    - "Selon Fritz (2015), des situations d'AP mettant en jeu des exercices de double tâche permettent de participer à la restauration des fonctions cérébrales impliquées dans l'attention et la motricité en améliorant la mobilité générale ainsi que l'équilibre et la marche pour les patients moins atteints."
+    - "L'amélioration de ces performances cognitives repose en partie sur la plasticité cérébrale et sur la capacité du cerveau à se réorganiser en dépit de la dégradation des performances du système nerveux qui est un phénomène inévitable du vieillissement dont est victime le corps humain (Radel, 2018)."
+Q10:
+  title: "Le parcours d'orientation (PO) quelles affirmations sont exactes ?"
+  options:
+    - "Est une dérivée de la course d'orientation."
+    - "Le but principal est de stimuler le patient d'un point de vue physique à travers les déplacements entre les balises et d'un point de vue cognitif en leur proposant des petits exercices inscrits sur les balises (double tâche)."
+    - "Le PO est une activité physique qui sollicite les fonctions cognitives, en particulier les fonctions attentionnelles, la mémoire, la perception et la capacité d'orientation tout en mettant en jeu la motricité. Elle permet en plus de développer les capacités d'analyse de l'environnement (savoir ou je suis) et de mise en place de stratégie (adapter ses déplacements)."
+    - "Les déplacements entre les balises permettent de solliciter la fonction cardiaque, de stimuler les fonctions cognitives et d'améliorer l'oxygénation cérébrale et les capacités de raisonnement à condition que le pratiquant se déplace à une intensité suffisamment importante équivalente à 80% de sa fréquence cardiaque maximale (environ 134 battements par minute pour un individu de 45 ans)."
+    - "Cette activité fait appel non seulement, aux capacités d'orientation et de déplacement dans l'espace en fonction du plan mais également aux capacités mnésiques (retenir ce que l'on a vu sur le plan pour éviter de le consulter sans cesse) et aux facultés de compréhension quant au fonctionnement et déroulement de la séance."
+Q11:
+  title: "Quelles affirmations sont exactes ?"
+  options:
+    - "L'impulsivité est considérée comme la tendance à exprimer des comportements spontanés, excessifs et/ou non planifiés, joue un rôle essentiel dans la compréhension de nombreux états psychopathologiques et comportements problématiques."
+    - "L'impulsivité est un construit unidimensionnel."
+    - "Les amateurs de sensations, dans un état de non-stimulation, auraient une activité sérotonique faible et rechercheraient des substances ou comportements qui relèveraient cette activité."
+    - "L'augmentation de l'activation cérébrale provoque une augmentation de l'efficience comportementale mais jusqu'à un certain seuil."
+    - "La personnalité selon Cottraux est « un ensemble de patrons de comportement, déterminés par l'hérédité et le milieu, se développant par l'interaction de quatre secteurs dans lesquels ces patrons sont organisés : le cognitif, le volitionnel, l'affectif et le somatique »."
+Q12:
+  title: "Les déterminants de notre personnalité :"
+  options:
+    - "L'hérédité"
+    - "L'histoire individuelle"
+    - "La stabilité économique"
+    - "Le cadre socio-culturel"
+    - "La région"
+Q13:
+  title: "Catell a identifié des traits de personnalité :"
+  options:
+    - "La bonne humeur"
+    - "La stabilité émotionnelle"
+    - "La stabilité sociale"
+    - "Le raisonnement"
+    - "La vigilance"
+Q14:
+  title: "Catell a identifié 16 facteurs primaires :"
+  options:
+    - "Vivacité"
+    - "Domination"
+    - "Dominance"
+    - "Labilité émotionnelle"
+    - "Intériorisation"
+Q15:
+  title: "La théorie des 5 facteurs de personnalité identifie des grandes catégories de traits de personnalité, lesquelles ?"
+  options:
+    - "Névrosisme"
+    - "Extraversion"
+    - "Introversion"
+    - "Caractère agréable"
+    - "Conscience"
+Q16:
+  title: "Les traits de personnalité sont dans le modèle JUNG :"
+  options:
+    - "Audacieux"
+    - "Calme"
+    - "Directif"
+    - "Astucieux"
+    - "Rigide"
+Q17:
+  title: "Quelles affirmations sont exactes ?"
+  options:
+    - "Selon Schurr, les sportifs pratiquant un sport collectif sont plus anxieux plus extravertis que les sportifs pratiquant un sport individuel."
+    - "Selon Allen 2011, les sportifs pratiquant un sport à haut risque sont très névrotiques et extravertis."
+    - "Garland et Barry (1990) ont mis en évidence que chez les joueurs de football américain, il existe le niveau appelé « les coupeurs de citron » (ceux qui ne jouent quasiment jamais lors des matchs à enjeu élevés)."
+    - "La personnalité, la motivation, l'anxiété, et diverses autres dimensions psychologiques permettent d'expliquer près de 20% à 45% de la variabilité dans la performance athlétique (Morgan, 1980)."
+    - "Selon Aidman, à potentiel physique identique au niveau junior, les joueurs qui avaient le plus de chances d'évoluer dans la ligue professionnelle de football australien 7 ans plus tard, étaient ceux qui présentaient entre autres, un score plus élevé sur le trait « caractère consciencieux/ conformisme ». C'est-à-dire, ils étaient plus conformistes, scrupuleux, et qui respectaient davantage les conventions."
+Q18:
+  title: "À propos de la personnalité particulière du sportif :"
+  options:
+    - "Selon l'hypothèse gravitationnelle, les individus seraient attirés par les sports qui correspondraient à leurs traits de personnalité."
+    - "Les individus qui ont une personnalité déterminée, affirmée, qui sont sûrs d'eux-mêmes, et qui ont un trait d'agressivité marqué, pourraient « graviter » autour des sports comme le rugby, la boxe ou le hockey selon l'hypothèse des attentes sociales."
+    - "Seules les personnes qui ont les caractéristiques de personnalité les mieux adaptées au sport qu'elles pratiquent, continuent de faire ce sport et que celles qui n'ont pas ces caractéristiques, arrêtent selon l'hypothèse gravitationnelle."
+    - "La compétition sportive pourrait avoir un effet négatif sur l'apparition de comportements pro-sociaux dans la mesure où les enfants qui ont la plus grande expérience dans les sports compétitifs, sont significativement moins altruistes et généreux envers leurs camarades que ceux qui ont moins d'expérience dans le sport, selon l'hypothèse des attentes sociales."
+    - "Selon l'hypothèse gravitationnelle, on peut penser que la pratique régulière d'un sport constitue une expérience qui contribue à façonner la personnalité des individus. Le sport en général et les différents sports en particulier constituent des lieux de socialisation, dans le sens où ils véhiculent certaines valeurs, certaines attentes qui peuvent être intériorisées et marquer la personnalité des pratiquants."
+Q19:
+  title: "Les facteurs de stress chez le sportif pouvant conduire à la blessure :"
+  options:
+    - "Les examens"
+    - "Une dispute entre amis"
+    - "La vie de couple"
+    - "Un décès"
+    - "Le souvenir des anciennes blessures"
+Q20:
+  title: "L'évaluation cognitive dans le processus de rééducation :"
+  options:
+    - "L'ajustement des objectifs"
+    - "Le niveau de compétition"
+    - "Le stade de la guérison"
+    - "La perception de soi"
+    - "La désorientation"
+Q21:
+  title: "Quelle(s) affirmation(s) est /ou sont exacte(s) ?"
+  options:
+    - "D'un meilleur niveau scolaire, les filles s'orientent davantage vers l'enseignement général et technologique que les garçons."
+    - "Elles sont plus nombreuses en proportion à s'orienter dans les filières scientifiques."
+    - "À la sortie de l'université, les filles s'insèrent aussi bien dans le marché du travail que leurs homologues masculins, mais n'ont ni le même niveau de qualification, ni le même salaire."
+    - "Selon Martino, en EPS, les filles cherchent à performer, recherchent la vitesse, acceptent le risque et ont des mentalités de guerrière."
+    - "Selon guérandel (2013), l'EPS participe alors à la construction de la masculinité par rapport à sa programmation d'APSA."
+Q22:
+  title: "Quelle(s) affirmation(s) est /ou sont fausse(s) ?"
+  options:
+    - "Selon Hickey (2008), les filles préfèreraient alors renoncer à leurs buts par crainte d'être rejetées en ne témoignant pas d'attitudes ou de qualités assez féminines."
+    - "Le plaisir est défini comme un ressenti positif, pendant ou à la fin de l'action résultant d'une combinaison complexe entre émotions, affects, humeurs et expériences antérieures (Haye et al, 2001)."
+    - "Selon Gagnaire et Lavie (2010), dans l'APSA escalade, il peut être intéressant d'inscrire les élèves dans des situations différentes au regard de leur profil émotionnel initial. Les élèves orientés vers l'épreuve, pourront par exemple avoir pour objectif de monter la hauteur de la tour Eiffel en une leçon (324m)."
+    - "Du collège au lycée, l'EPS apparaît ainsi comme une discipline plus « masculinisée » que les autres, avec 56 % d'hommes parmi ses personnels enseignants dans le secteur public, un chiffre qui monte à 61 % dans le secteur privé."
+    - "D'après COSTON (2017), pour les lycéennes et les lycéens interrogés, le sexe aurait finalement peu d'importance face à la compétence à enseigner : « Le sexe n'a pas d'importance pour un professeur idéal, le mieux c'est qu'il aime être prof »"
+Q23:
+  title: "Quelle(s) affirmation(s) est /ou sont exacte(s) ?"
+  options:
+    - "En 2019, le revenu salarial des femmes reste inférieur en moyenne de 22 % à celui des hommes (28 % en 2000)."
+    - "À l'arrivée des enfants, pour concilier vie privée et vie professionnelle, les femmes sont toujours plus nombreuses que les hommes à interrompre leur activité ou à réduire leur temps de travail : en 2020, celles qui travaillent sont trois fois plus souvent à temps partiel que les hommes (cinq fois plus en 2008)."
+    - "Avec la hausse des ruptures d'union, le nombre de mères à la tête d'une famille monoparentale a augmenté de 4 % entre 2006 et 2018."
+    - "Les élèves pratiquant une activité physique modérée au moins un jour par semaine tendent à obtenir de meilleurs résultats aux évaluations PISA que ceux n'en pratiquant aucune."
+    - "D'après l'enquête PISA, les élèves pratiquant une activité physique intense tendent à faire part d'un niveau plus élevé de bien-être psychosocial que ceux ne pratiquant aucune activité physique."
+Q24:
+  title: "Un cours d'éducation physique de qualité selon RYFF (2014) se caractérise par :"
+  options:
+    - "L'autonomie."
+    - "La maîtrise de l'environnement."
+    - "La croissance personnelle."
+    - "Les relations positives avec les autres."
+    - "L'acceptation de soi."
+Q25:
+  title: "Quelle(s) affirmation(s) est /ou sont exacte(s) ?"
+  options:
+    - "Au 19ème les femmes étaient considérées comme moins intelligentes car la taille de leur cerveau est plus petite selon ROCA (1861) : 1230 cm3 pour les hommes et 1070 cm3 pour les femmes."
+    - "Selon Archer (2004), les hommes sont plus agressifs que les femmes de manière générale, lié en partie au taux de testostérone."
+    - "Les garçons de façon générale sont plus sujets à développer certaines pathologies comme l'autisme, le THADA, les troubles apprentissages, troubles des conduites sociales."
+    - "10% d'enfants et d'adolescents se plaignent de mal de dos VIGUIER 2005"
+    - "Selon JAEGER : 20%des garçons se déclarent gros, 30% des filles régime à 11 ans, 47% à 15 ans."
+Q26:
+  title: "Quelle(s) affirmation(s) est /ou sont fausse(s) ?"
+  options:
+    - "En entreprise, les femmes gagnent en moyenne 16,8% de moins que les hommes pour un poste à temps complet (Insee, 2020)."
+    - "En 2021, les assistante·s maternelles, les employé·e·s de maisons, les aides à domicile et les aides ménagères sont à plus de 95 % des femmes."
+    - "En 2021, 67% infirmiere·s sont des femmes"
+    - "1 femme sur 3 a déjà été victime de harcèlement sexuel au travail (Ifop, 2018). Le sexisme contribue, aussi, à expliquer les déséquilibres de rémunération entre les femmes et les hommes et contribue à façonner le \"plafond de verre\"."
+    - "En 2022, les femmes « travaillent gratuitement » à partir du 4 novembre à 9h10."
+Q27:
+  title: "L'Index égalité professionnelle hommes-femmes est composé de différents indicateurs, lesquels ?"
+  options:
+    - "L'écart de rémunération femmes-hommes."
+    - "L'écart de répartition des augmentations individuelles."
+    - "L'écart de répartition des promotions (pour les entreprises de plus de 250 salariés)."
+    - "Le nombre de salariées augmentées à leur retour de congé de maternité."
+    - "La parité parmi les 10 plus hautes rémunérations."
+

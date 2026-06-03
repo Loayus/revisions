@@ -1,0 +1,246 @@
+année: "2024-2025"
+semestre: 3
+session: 1
+matière: "Sociologie"
+QCM: "A"
+Q1:
+  title: "Au sein d'une société, on peut identifier :"
+  options:
+    - "L'existence d'institutions."
+    - "L'existence de sociétés partielles."
+    - "L'existence d'une communauté où les individus ont des interactions volontaires ou involontaires explicites ou implicites."
+    - "L'existence d'une communauté où les individus sont interdépendants et forment un groupe qui comporte lui-même des sous-groupes."
+    - "L'existence d'une communauté où les individus présentent des caractéristiques sociologiques communes."
+Q2:
+  title: "S'agissant des inégalités sociales de santé, quelle(s) proposition(s) sont vraie(s) ?"
+  options:
+    - "Elles sont mesurées par les taux de morbidité et de mortalité, la fréquence des handicaps moteurs ou des troubles mentaux, l'espérance et la qualité de vie."
+    - "Elles correspondent aux similitudes observées entre groupes sociaux."
+    - "Elles relèvent de la justice sociale."
+    - "Elles sont le résultat d'une exposition plus faibles à des conditions de vie stressantes et moins de ressources protectrices."
+    - "Elles sont le résultat d'attentes défaitistes, de la honte et moins de maîtrise en matière de santé."
+Q3:
+  title: "Selon la définition du sport donnée par J Defrance :"
+  options:
+    - "Le sport intègre des comportements, des rites, des représentations, des normes et des valeurs."
+    - "La notion de sport couvre un large éventail d'activités dotées de propriétés parfois contradictoires."
+    - "Le sport tient du jeu et de la distraction."
+    - "Le sport a toutes les caractéristiques du travail hautement spécialisé."
+    - "Le sport a une histoire et il est dans l'Histoire."
+Q4:
+  title: "Aujourd'hui :"
+  options:
+    - "Les supporteurs lensois sont encore pour beaucoup sociologiquement le même public que dans les années 1950."
+    - "Le fait d'associer le public lensois à la figure du mineur est de l'exotisme social."
+    - "Des joueurs comme l'algérien Ahmed Oudjani renvoie par son style de jeu aux normes de la communauté ouvrière locale."
+    - "Au début du club, les ouvriers se prennent de passion davantage pour des pratiques comme le cyclisme ou la colombophilie."
+    - "Le chant des Corons entonné par les supporteurs rappelle le glorieux passé minier de la région et de leurs ancêtres."
+Q5:
+  title: "Les interdictions judiciaires de stade :"
+  options:
+    - "Peuvent être prises longtemps après les faits."
+    - "S'accompagnent d'une obligation de pointer à la police ou la gendarmerie."
+    - "Donnent à voir des excès liberticides."
+    - "Ont une durée maximale d'un an."
+    - "Constituent une sanction pénale complémentaire prononcée par un tribunal."
+Q6:
+  title: "Le questionnaire :"
+  options:
+    - "Contient des questions standardisées."
+    - "Est une série de questions prédéfinies, sur un thème particulier, que l'on pose à un nombre important de personnes."
+    - "Permet de produire des données qualitatives précises et de proposer une explication à partir de la mise en relation de ces données."
+    - "Pose le plus souvent des questions semi-fermées."
+    - "Est une méthode rarement utilisée par les sociologues."
+Q7:
+  title: "Quelles sont les principales tendances qualifiant la demande sociale du sport ?"
+  options:
+    - "Une massification des pratiques, des modalités et des raisons de pratiquer."
+    - "Une diversification des pratiques, des modalités et des raisons de pratiquer."
+    - "Un développement de la pratique des 25-40 ans."
+    - "Une démocratisation significative du sport."
+    - "Un allongement des cycles de vie sportifs."
+Q8:
+  title: "Séghir Lazri propose une analyse sociologique du club de football lensois."
+  options:
+    - "Il réalise uniquement une étude chronologique d'ordre historique."
+    - "Il passe quelques clichés du football lensois au crible des sciences sociales."
+    - "Il montre comment le social explique le sport et inversement."
+    - "A partir d'une analyse historique, il explique aussi sociologiquement l'évolution du club."
+    - "Un club de football ne peut pas forcément faire l'objet d'une étude sociologique."
+Q9:
+  title: "Quelles sont les principales tendances qualifiant la demande sociale du sport ?"
+  options:
+    - "Une féminisation des pratiques avec des spécificités sur les modalités de pratique."
+    - "Un développement de la pratique 30-45 ans."
+    - "Une individualisation des pratiques."
+    - "Une augmentation importante du nombre de licenciés dans les fédérations sportives."
+    - "Une stagnation des pratiques autonomes."
+Q10:
+  title: "Pour quelles raisons observe-t-on une saturation du marché des pratiques ?"
+  options:
+    - "Un rajeunissement démographique."
+    - "Une diminution des pratiques de loisir hors du cadre fédéral."
+    - "Une concurrence entre fédérations sur les populations des plus jeunes."
+    - "Une concurrence de l'offre sportive publique."
+    - "Une augmentation de la pratique du e-sport."
+Q11:
+  title: "Dans un entretien, quel(s) mode(s) de reformulation existe-t-il ?"
+  options:
+    - "Réflexive."
+    - "Clarification."
+    - "Répétition."
+    - "Inversée."
+    - "Miroir."
+Q12:
+  title: "Dans la définition de l'intégration, quelle(s) proposition(s) est (sont) correcte(s) ?"
+  options:
+    - "L'individu, par les interactions avec les autres, apprend progressivement à adopter un comportement conforme aux attentes d'autrui."
+    - "L'intégration est le processus dont la finalité est de permettre à certaines catégories sociales en situation d'exclusion de retrouver place dans la société."
+    - "L'intégration se fait par intégration progressive des normes sociales qui préexistent et s'imposent aux individus."
+    - "L'intégration est un processus simple et linéaire d'intériorisation des normes, valeurs, croyances que le sport peut favoriser."
+    - "L'intégration est le processus qui permet à une personne ou à un groupe de personnes de se rapprocher et de devenir membre d'un autre groupe plus vaste."
+Q13:
+  title: "Les sociologues peuvent participer au débat public sur l'insécurité dans les grandes cités."
+  options:
+    - "L'insécurité est socialement construite."
+    - "L'insécurité est naturelle."
+    - "L'insécurité est contingente."
+    - "L'insécurité est le produit de forces sociales."
+    - "L'insécurité est une construction de l'esprit humain."
+Q14:
+  title: "Dans l'utilisation du sport comme outil d'éducation et d'intégration, que signifie la « conditionnalité des effets » ?"
+  options:
+    - "Que le transfert de compétences ne peut fonctionner que si les situations sont comparables."
+    - "Que le transfert de schèmes d'un univers social à un autre est systématique."
+    - "Que le transfert de compétences ne peut fonctionner que si le transfert s'accompagne d'une réflexivité."
+    - "Que le respect du corps arbitral conduit à respecter automatiquement les forces de l'ordre."
+    - "Que le respect de la règle sportive n'entraîne pas forcément le respect des règles sociales."
+Q15:
+  title: "Selon Bourdieu et Passeron, pourquoi l'école joue un rôle de reproduction et de violence symbolique ?"
+  options:
+    - "Parce que l'école donne à voir une sélection qui ressemble davantage à une compétition juste qu'à une cooptation."
+    - "Parce que l'école efface le lien entre inégalités sociales et inégalités scolaires."
+    - "Parce que l'école promeut un modèle de réussite qui correspond aux critères du groupe dominant."
+    - "Parce que l'école produit une culture scolaire neutre, objective et universelle."
+    - "Parce que l'école impose une culture et des critères de jugement à toute une classe d'âge."
+Q16:
+  title: "Parmi les définitions suivantes proposées par Bourdieu, laquelle (lesquelles) est (sont) fausse(s) ?"
+  options:
+    - "Le structuralisme est un système incorporé et incorporant, structuré et structurant qui prédispose l'individu."
+    - "Le capital politique est une sphère de la vie politique qui s'est autonomisée et qui possède ses propres règles de fonctionnement."
+    - "L'habitus correspond aux positions que les agents occupent au sein de l'espace des positions sociales."
+    - "Le capital social est l'ensemble des relations sociales dont dispose un individu ou groupe."
+    - "Les capitaux sont des atouts qui permettent aux individus d'acheter, de produire et d'agir sur un marché."
+Q17:
+  title: "Les travaux sociologiques portant sur la mobilité sociale liée à l'éducation montrent que :"
+  options:
+    - "Les parents occupent généralement une position sociale supérieure à leurs enfants."
+    - "L'école promeut un « idéal de la personne cultivée », à partir duquel on classe les élèves."
+    - "Les positions des grands-parents et des enfants restent homogènes."
+    - "L'accès aux titres scolaires, même s'il est plus restrictif, reste inégal."
+    - "Les enfants occupent généralement une position sociale inférieure à leurs parents."
+Q18:
+  title: "S'agissant du rapport des supporters ultras avec la violence, quelle(s) proposition(s) est (sont) fausse(s) ?"
+  options:
+    - "Les résultats du match ont peu d'influence sur les incidents."
+    - "La violence est une partie culturelle et intégrative de ces groupes."
+    - "Faire mieux que les autres groupes de supporters est parfois plus important que de soutenir l'équipe."
+    - "Les faits de violence servent à construire et consolider l'esprit de groupe."
+    - "Les ultras s'inscrivent moins dans la provocation que dans le passage à l'acte violent."
+Q19:
+  title: "La prévention secondaire :"
+  options:
+    - "Vise à diminuer la prévalence d'une maladie dans une population."
+    - "Intervient à un stade où il importe de diminuer la prévalence des incapacités chroniques ou des récidives dans une population."
+    - "S'oppose à l'évolution de la maladie."
+    - "Réunit l'ensemble des actes visant à diminuer l'incidence d'une maladie dans une population et donc à réduire les risques d'apparition de nouveaux cas."
+    - "Vise à réduire les complications, invalidités ou rechutes consécutives à la maladie."
+Q20:
+  title: "S'agissant des inégalités sociales de santé, quelle(s) proposition(s) sont fausse(s) ?"
+  options:
+    - "Les ISS sont plus importantes en France que dans la plupart des autres pays européens."
+    - "Malgré l'amélioration des conditions de vie et les progrès des prises en charge médicales, des disparités sociales non significatives demeurent en matière de santé en France."
+    - "Les ISS traversent la société dans son ensemble et sont structurelles."
+    - "Les ISS concernent seulement les groupes aux marges de la société."
+    - "Les ISS sont modifiables."
+Q21:
+  title: "La démarche de recherche scientifique implique :"
+  options:
+    - "Des connaissances dans le domaine abordé par la recherche."
+    - "Une connaissance approfondie du processus de recherche (démarche déductive, inductive)."
+    - "Des moyens financiers importants."
+    - "Une capacité d'innovation dans la collecte de l'information et de l'analyse des données."
+    - "Une certaine aptitude à écrire pour rédiger le rapport de recherche."
+Q22:
+  title: "Les inégalités sociales de santé :"
+  options:
+    - "Sont systématiques et politiquement construites."
+    - "Sont injustes."
+    - "Sont distribuées selon un schéma constant dans la population."
+    - "Résultent de circonstances indépendantes de la responsabilité des personnes."
+    - "Peuvent, de manière imagée, être comprises comme un trajet en bus."
+Q23:
+  title: "Quels facteurs participent aux difficultés pour lutter efficacement contre le dopage ?"
+  options:
+    - "La confusion entre la préparation médicale et le dopage."
+    - "La consommation croissante des médicaments dans nos sociétés contemporaines."
+    - "La solidarité et la tolérance des acteurs sportifs."
+    - "Les difficultés des épreuves et des compétitions sportives."
+    - "La préservation de la dimension spectaculaire du sport."
+Q24:
+  title: "Sur l'usage social du sport, quelle(s) proposition(s) est (sont) correcte(s) ?"
+  options:
+    - "L'intégration renvoie à l'image de « la feuille qui dépasse d'un livre »."
+    - "La socialisation désigne le mouvement par lequel une société se dote d'acteurs capables d'assurer son intégration."
+    - "Insérer signifie introduire et inclure de manière spécifique."
+    - "La socialisation est un processus dynamique et complexe d'extériorisation des normes."
+    - "L'intégration est conditionnelle."
+Q25:
+  title: "Le sociologue utilise différentes méthodes pour répondre à la problématique de recherche."
+  options:
+    - "Il utilise la méthode qualitative exclusivement."
+    - "Il peut utiliser la méthode qualitative et quantitative simultanément."
+    - "Il peut utiliser l'une ou l'autre des méthodes qualitatives et quantitatives."
+    - "Il ne peut utiliser qu'une méthode à la fois."
+    - "Il peut utiliser les deux méthodes sur un même échantillon."
+Q26:
+  title: "Le système de valeurs de « l'éthique » du sport de compétition est composé des critères suivants :"
+  options:
+    - "Etre dans l'excès."
+    - "Refuser ses propres limites et jouer avec sa souffrance."
+    - "Rechercher la victoire à tout prix."
+    - "Avoir un sens du sacrifice exacerbé."
+    - "Rester à la pointe de la technologie."
+Q27:
+  title: "Concernant les impacts de l'activité physique sur la santé, quelle(s) proposition(s) est (sont) vraie(s) ?"
+  options:
+    - "Une activité physique régulière permet d'éviter 10 à 15% des cancers du sein, du colôn et de l'endomètre."
+    - "Chez la personne âgée, la pratique d'une activité physique peut retarder la survenue de la dépendance de 7 à 10 ans."
+    - "L'inactivité physique est la deuxième cause de mortalité évitable dans le monde."
+    - "L'activité physique régulière diminue le risque de mortalité précoce de 30%."
+    - "L'activité physique régulière peut soigner des diabètes de type 2 chez des sujets pré-diabétiques."
+Q28:
+  title: "Dans la définition donnée de la sociologie par L Moreau de Bellaing et D Poussin :"
+  options:
+    - "Le terme de science est utilisé car on refuse les préjugés."
+    - "Le terme de société est utilisé car c'est l'objet de la sociologie."
+    - "Le terme de logique est utilisé car on analyse les procédures du « vivre ensemble »."
+    - "Le terme de rapports sociaux est utilisé car on étudie les rapports entre groupes sociaux."
+    - "Le terme d'institution est utilisé car l'institution est un objet de science."
+Q29:
+  title: "Le supportérisme autonome :"
+  options:
+    - "Est apparu dans les années 1970."
+    - "A émergé en lien direct avec les dirigeants des clubs."
+    - "Donne à voir deux branches différentes : les ultras et les hools."
+    - "Regroupe principalement des adultes de 30 à 40 ans."
+    - "Est considéré comme un mouvement radical."
+Q30:
+  title: "Dans le texte « les jeunes de cité », Éric Marlière mène une enquête ethnographique."
+  options:
+    - "L'ethnologue mène son étude chez lui en consultant exclusivement des enquêtes scientifiques."
+    - "L'ethnologue n'est pas un sociologue, il fait un travail complètement différent."
+    - "L'ethnologue mène des enquêtes en étant sur le terrain et en vivant avec la population."
+    - "L'ethnologue doit toujours se déclarer auprès de la population qu'il étudie."
+    - "Le sociologue est forcément un ethnologue."
+

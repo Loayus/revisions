@@ -1,0 +1,41 @@
+questions:
+  Q1:
+    correct_indices: [ A, B ]
+  Q2:
+    correct_indices: [ A, C, D ]
+  Q3:
+    correct_indices: [ B, C, D, E ]
+  Q4:
+    correct_indices: [ A, C, D, E ]
+  Q5:
+    correct_indices: [ A, C, E ]
+  Q6:
+    correct_indices: [ B, C, E ]
+  Q7:
+    correct_indices: [ A, B, C, D, E ]
+  Q8:
+    correct_indices: [ B, C, D, E ]
+  Q9:
+    correct_indices: [ B, C, D ]
+  Q10:
+    correct_indices: [ D ]
+  Q11:
+    correct_indices: [ B, D ]
+  Q12:
+    correct_indices: [ A, B, C, D ]
+  Q13:
+    correct_indices: [ A, E ]
+  Q14:
+    correct_indices: [ A, C, E ]
+  Q15:
+    correct_indices: [ A, C, D ]
+  Q16:
+    correct_indices: [ B, D ]
+  Q17:
+    correct_indices: [ B, C, E ]
+  Q18:
+    correct_indices: [ A, D, E ]
+  Q19:
+    correct_indices: [ A, C ]
+  Q20:
+    correct_indices: [ A, B, C, E ]
