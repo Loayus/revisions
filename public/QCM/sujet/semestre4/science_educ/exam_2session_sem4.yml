@@ -1,0 +1,164 @@
+année: "2024-2025"
+semestre: 4
+matière: "Science de l’éducation"
+QCM: "B"
+Q1:
+  title: "À propos de l’activité physique :"
+  options:
+    - "Les activités de formes sont les activités préférées des français"
+    - "La quantité d’activité physique pratiquée à l’enfance influence la quantitité de pratique à l’âge adulte"
+    - "Elle n’a aucun impact sur la qualité de vie."
+    - "Les séniors (65-79 ans) suivent davantage les recommandations de l’OMS que les jeunes (3-10 ans)"
+    - "80% des jeunes dans le monde sont suffisamment actifs"
+Q2:
+  title: "À propos de la littératie physique :"
+  options:
+    - "Elle représente un moyen de lutter contre la sédentarité"
+    - "Elle est constituée de 5 domaines de compétences complémentaires"
+    - "Dans ce concept, on part du principe que chaque individu et sa relation au monde est unique"
+    - "Il existe une littératie physique adaptée aux publics vulnérables"
+    - "Les États-Unis ont réduit leur nombre de décès liés à l’inactivité physique depuis la mise en place de ce concept dans les programmes scolaires"
+Q3:
+  title: "À propos de la littératie physique, quel est ou quels sont son/ses domaine(s) constitutif(s) :"
+  options:
+    - "Motivationnel"
+    - "Moteur"
+    - "Cognitif"
+    - "Psychologique"
+    - "Social"
+Q4:
+  title: "À propos de l’évaluation, quelles sont les différents types d’évaluation :"
+  options:
+    - "L’évaluation formative"
+    - "L’évaluation normative"
+    - "L’évaluation formatrice"
+    - "L’évaluation diagnostique"
+    - "L’évaluation sommative"
+Q5:
+  title: "À propos des étapes de l’évaluation selon Romainville en 2017, laquelle ou lesquelles en fait/font partie :"
+  options:
+    - "L’analyse"
+    - "La notation"
+    - "La décision"
+    - "L’observation"
+    - "Le recueil d’informations"
+Q6:
+  title: "À propos de la littératie physique, quel est ou quels sont le(s) pilier(s) philosophique(s) :"
+  options:
+    - "Le dualisme"
+    - "L’hollisme"
+    - "L’existentialisme"
+    - "Le positivisme"
+    - "La phénoménologie"
+Q7:
+  title: "À propos de l'arrêt de la pratique de l'activité physique chez les jeunes en France selon Gatouillat, quel est ou quels sont les principales causes :"
+  options:
+    - "Le temps passé devant les écrans"
+    - "Les études"
+    - "Le cadre familial"
+    - "Les relations aux autres"
+    - "Le rapport au corps"
+Q8:
+  title: "À propos des définitions de l'activité physique, l'inactivité physique et la sédentarité :"
+  options:
+    - "L’activité physique représente l'ensemble des mouvements produit par la contraction de muscles squelettiques générant une dépense énergétique inférieure à celle de repos"
+    - "L’inactivité physique représente la non atteinte des recommandations de l’Organisation Mondiale de la Santé"
+    - "La sédentarité représente un comportement d’éveil générant une dépense énergétique proche de celle de repos"
+    - "On peut être non sédentaire et actif"
+    - "On peut être inactif et sédentaire"
+Q9:
+  title: "À propos de la mise en œuvre de la littératie physique :"
+  options:
+    - "Elle a permis d'augmenter le nombre de médailles gagnées par la Chine aux Jeux Olympiques"
+    - "Elle est la base des programmes éducatifs dans les clubs sportifs canadiens"
+    - "Elle peut être adaptée pour les personnes en situation de handicap"
+    - "Elle est mise en place dans les clubs canins"
+    - "Elle est présente dans les programmes scolaires de la majorité des pays Européens"
+Q10:
+  title: "À propos des tests de littératie physique :"
+  options:
+    - "Le PPLI est un questionnaire mettant en jeu en petit lapin"
+    - "L’ELIP est un test uniquement physique"
+    - "Le Dragon Challenge est un questionnaire mettant en jeu un dragon"
+    - "Dans le CAPL-2, on mesure le nombre de pas effectués chaque jour"
+    - "Le PLC-Quest est un test chinois"
+Q11:
+  title: "À propos des phases de l’intervention dans une séance collective d’APSA"
+  options:
+    - "La planification consiste à interagir directement avec les pratiquants pendant la séance"
+    - "La phase d’évaluation permet d’analyser les effets de l’intervention sur les apprentissages"
+    - "L’interaction fait uniquement référence à l’observation post-séance"
+    - "La conduite du groupe vise à développer les compétences de chaque membre"
+    - "L’intervention ne nécessite pas de planification si l’intervenant est expérimenté"
+Q12:
+  title: "Dans le modèle socio-écologique adapté de McLeroy et al. (1998), les niveaux d’influence sont :"
+  options:
+    - "Intrapersonnel (motivation, estime de soi, préférences…)"
+    - "Interpersonnel (famille, pairs…)"
+    - "Institutionnel (école, clubs, organisations…)"
+    - "Communauté et politique publique"
+    - "Génétique et physiologique uniquement"
+Q13:
+  title: "Concernant les dimensions de la gestion du temps dans l’intervention :"
+  options:
+    - "Le temps moteur doit représenter environ 60 % du temps total d’intervention"
+    - "Le temps d’apprentissage est équivalent au temps académique"
+    - "Le temps de transmission des consignes est inclus dans le temps moteur"
+    - "La gestion du temps est une compétence développée uniquement par les expériences vécues"
+    - "Le temps d’action correspond aux phases d’échauffement, d’exercices, etc."
+Q14:
+  title: "À propos des modèles d’organisation du temps pédagogique :"
+  options:
+    - "La temporalité cyclique implique des phases de problématisation et d’institutionnalisation"
+    - "Le modèle circulaire suit une logique linéaire d’échauffement à l’évaluation"
+    - "Le modèle linéaire s’articule autour de situations ciblées puis se termine par une forme de pratique"
+    - "Le modèle cyclique exclut toute forme de retour en arrière"
+    - "Tous les modèles cherchent à optimiser les apprentissages en fonction du temps"
+Q15:
+  title: "A propos de la promotion de l’activité physique chez les adolescents, il est important de :"
+  options:
+    - "Prendre en compte les préférences pour favoriser un engagement durable"
+    - "Imposer des activités intensives pour provoquer un changement de comportement"
+    - "Adapter les politiques en fonction des préférences et des contextes sociaux"
+    - "Comprendre les déterminants sociaux, personnels et culturels des choix d’activités"
+    - "Se concentrer uniquement sur le niveau d’habiletés motrices de l’activité physique"
+Q16:
+  title: "À propos de l’optimisation du temps de pratique en APSA :"
+  options:
+    - "Elle consiste uniquement à augmenter la durée totale d’une séance"
+    - "L’engagement moteur correspond au temps effectivement passé à réaliser des exercices"
+    - "Elle suppose de pratiquer plus, mais pas forcément mieux"
+    - "Elle passe par une bonne anticipation et une planification rigoureuse"
+    - "Elle est réservée aux enseignants experts"
+Q17:
+  title: "A propos de la transmission des consignes en début de séance :"
+  options:
+    - "Il est inutile de contextualiser si les élèves sont déjà expérimentés"
+    - "Le regroupement des pratiquants doit favoriser la concentration"
+    - "L’intervenant doit veiller à ce que les consignes soient comprises avant mise en action"
+    - "Utiliser un langage trop technique permet de faire progresser plus vite"
+    - "Il est pertinent de faire verbaliser les consignes par les élèves"
+Q18:
+  title: "À propos des démarches pédagogiques fondées sur les approches théoriques :"
+  options:
+    - "L’approche écologique favorise l’exploration de l’environnement par les élèves"
+    - "L’approche située ignore les expériences vécues des pratiquants"
+    - "L’approche cognitiviste repose sur la coopération sociale entre élèves"
+    - "L’approche socio-cognitiviste met l’accent sur les interactions entre pairs"
+    - "La pédagogie des contraintes s’inscrit dans une démarche écologique"
+Q19:
+  title: "A propos des facteurs d’optimisation de l’intervention en EPS :"
+  options:
+    - "Le matériel, l’espace et le groupement sont des facteurs organisationnels essentiels"
+    - "L’intervenant doit rester statique pour être visible par tous"
+    - "Les modes de groupement doivent être adaptés à l’objectif de la séance"
+    - "Le facteur humain n’intervient qu’en cas de conflit entre pratiquants"
+    - "La planification n’a de rôle que lors de la première séance d’un cycle"
+Q20:
+  title: "À propos de l’évolution des pratiques préférées chez les adolescents :"
+  options:
+    - "Les adolescents se tournent de plus en plus vers des pratiques autonomes"
+    - "Les activités physiques organisées favorisent un engagement durable"
+    - "Elles permettent d’adapter l’offre pour favoriser l’adhésion des jeunes"
+    - "Les adolescents sont de moins en moins sensibles à leurs préférences individuelles"
+    - "L’AP non structurée est incompatible avec une pratique durable"
