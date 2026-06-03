@@ -1,10 +1,15 @@
 import YAML from 'js-yaml';
 
+function getFullPath(relativePath) {
+  return import.meta.env.BASE_URL + relativePath.replace(/^\//, '');
+}
+
 export async function loadYAML(path) {
   try {
-    const response = await fetch(path);
+    const fullPath = getFullPath(path);
+    const response = await fetch(fullPath);
     if (!response.ok) {
-      console.error(`HTTP error! status: ${response.status} for path: ${path}`);
+      console.error(`HTTP error! status: ${response.status} for path: ${fullPath}`);
       return null;
     }
     const text = await response.text();
