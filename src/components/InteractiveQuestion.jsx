@@ -9,6 +9,9 @@ export default function InteractiveQuestion({
   const optionLetters = ['A', 'B', 'C', 'D', 'E'];
   const correctIndicesSet = new Set(correctIndices);
 
+  // Vérifier si la question a une correction
+  const hasCorrection = correctIndices && correctIndices.length > 0;
+
   const getOptionStatus = (letter) => {
     const isCorrect = correctIndicesSet.has(letter);
     const isSelected = selectedAnswers.includes(letter);
@@ -22,8 +25,13 @@ export default function InteractiveQuestion({
   };
 
   return (
-    <div className="question">
+    <div className={`question ${!hasCorrection ? 'question--no-correction' : ''}`}>
       <h3>{questionIndex}. {question.title}</h3>
+      {!hasCorrection && (
+        <div className="question-no-correction-msg">
+          ℹ️ Pas de correction pour cette question
+        </div>
+      )}
       <div className="options">
         {question.options &&
           question.options.map((option, idx) => {
@@ -36,13 +44,13 @@ export default function InteractiveQuestion({
                 key={idx}
                 className={`option ${status ? status : ''} ${
                   showResults ? 'disabled' : ''
-                }`}
+                } ${!hasCorrection ? 'option--disabled' : ''}`}
               >
                 <input
                   type="checkbox"
                   checked={isSelected}
                   onChange={() => onAnswerChange(questionIndex, letter)}
-                  disabled={showResults}
+                  disabled={showResults || !hasCorrection}
                 />
                 <span className="option-letter">{letter}</span>
                 <span className="option-text">{option}</span>

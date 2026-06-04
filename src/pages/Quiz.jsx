@@ -79,7 +79,6 @@ export default function Quiz() {
     if (showResults && selectedTest) return (
         <ResultsPage
                 test={selectedTest}
-                userAnswers={userAnswers}
                 results={results}
                 onBackClick={handleBackFromResults}
             />

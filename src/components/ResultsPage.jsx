@@ -271,9 +271,32 @@ const css = `
   .res-legend-dot {
     width: 10px; height: 10px; border-radius: 3px;
   }
-  .res-legend-dot.correct { background: var(--sage); }
-  .res-legend-dot.missed  { background: var(--peach); }
-  .res-legend-dot.wrong   { background: var(--rose); }
+   .res-legend-dot.correct { background: var(--sage); }
+   .res-legend-dot.missed  { background: var(--peach); }
+   .res-legend-dot.wrong   { background: var(--rose); }
+
+   /* ── Questions sans correction ── */
+   .res-question-card--no-correction {
+     background: rgba(255,255,255,.45) !important;
+     opacity: 0.7;
+     border-color: rgba(61,46,46,.1) !important;
+   }
+   .res-question-card--no-correction:hover {
+     box-shadow: none;
+     transform: none !important;
+   }
+   .res-q-pill--no-correction {
+     background: rgba(61,46,46,.12) !important;
+     color: var(--muted) !important;
+   }
+   .res-no-correction-msg {
+     font-size: .85rem;
+     color: var(--muted);
+     padding: 10px 12px;
+     background: rgba(61,46,46,.08);
+     border-radius: 10px;
+     font-style: italic;
+   }
 `;
 
 function getFeedback(pct) {
@@ -286,16 +309,19 @@ function getFeedback(pct) {
 
 const OPTION_LETTERS = ['A', 'B', 'C', 'D', 'E'];
 
-export default function ResultsPage({test, userAnswers, results, onBackClick}) {
-    const totalScore = results.reduce((sum, r) => sum + r.points, 0);
-    const maxScore = results.length;
+export default function ResultsPage({test, results, onBackClick}) {
+    // Filtrer les résultats pour exclure les questions sans correction
+    const resultsWithCorrection = results.filter(r => r.hasCorrection);
+
+    const totalScore = resultsWithCorrection.reduce((sum, r) => sum + r.points, 0);
+    const maxScore = resultsWithCorrection.length;
     const pct = maxScore > 0 ? (totalScore / maxScore) * 100 : 0;
     const scoreOut20 = (pct / 100) * 20;
     const feedback = getFeedback(pct);
 
-    const goodCount = results.filter(r => r.points === 1).length;
-    const partialCount = results.filter(r => r.points > 0 && r.points < 1).length;
-    const zeroCount = results.filter(r => r.points === 0).length;
+    const goodCount = resultsWithCorrection.filter(r => r.points === 1).length;
+    const partialCount = resultsWithCorrection.filter(r => r.points > 0 && r.points < 1).length;
+    const zeroCount = resultsWithCorrection.filter(r => r.points === 0).length;
 
     /* Calcul de l'offset SVG : circonférence = 2π×65 ≈ 408 */
     const dashTarget = 408 - (pct / 100) * 408;
@@ -355,6 +381,28 @@ export default function ResultsPage({test, userAnswers, results, onBackClick}) {
                 {results.map((result, idx) => {
                     const question = test.sujet[result.questionIndex];
                     const correctSet = new Set(result.correctIndices);
+
+                    // Si pas de correction, afficher grisé
+                    if (!result.hasCorrection) {
+                        return (
+                            <div
+                                key={idx}
+                                className="res-question-card res-question-card--no-correction"
+                                style={{animationDelay: `${idx * 0.06 + 0.4}s`}}
+                            >
+                                <div className="res-q-top">
+                                    <span className="res-q-title">
+                                        {result.questionIndex}. {question.title}
+                                    </span>
+                                    <span className="res-q-pill res-q-pill--no-correction">Pas de correction</span>
+                                </div>
+                                <div className="res-no-correction-msg">
+                                    ℹ️ Pas de correction pour cette question
+                                </div>
+                            </div>
+                        );
+                    }
+
                     const pillClass = result.points === 1 ? 'full' : result.points > 0 ? 'partial' : 'zero';
                     const pillLabel = result.points === 1 ? `${result.points.toFixed(2)} pt ✓` : `${result.points.toFixed(2)} / 1`;
 

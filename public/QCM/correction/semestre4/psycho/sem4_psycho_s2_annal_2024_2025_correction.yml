@@ -1,55 +1,55 @@
 questions:
   Q1:
-    correct_indices: [ ]
+    correct_indices: [ A,B,C,E ]
   Q2:
-    correct_indices: [ ]
+    correct_indices: [ A,C,D,E ]
   Q3:
-    correct_indices: [ ]
+    correct_indices: [ A,C ]
   Q4:
-    correct_indices: [ ]
+    correct_indices: [ A,B,C,D,E ]
   Q5:
-    correct_indices: [ ]
+    correct_indices: [ B,C,D,E ]
   Q6:
-    correct_indices: [ ]
+    correct_indices: [ A,B,D,E ]
   Q7:
-    correct_indices: [ ]
+    correct_indices: [ A,B,E ]
   Q8:
-    correct_indices: [ ]
+    correct_indices: [ C ]
   Q9:
-    correct_indices: [ ]
+    correct_indices: [ A,B,C,D,E ]
   Q10:
-    correct_indices: [ ]
+    correct_indices: [ A,B,C,E ]
   Q11:
-    correct_indices: [ ]
+    correct_indices: [ A,C,D,E ]
   Q12:
-    correct_indices: [ ]
+    correct_indices: [ A,B,D ]
   Q13:
-    correct_indices: [ ]
+    correct_indices: [ B,D,E ]
   Q14:
-    correct_indices: [ ]
+    correct_indices: [ A,C ]
   Q15:
-    correct_indices: [ ]
+    correct_indices: [ A,B,D,E ]
   Q16:
-    correct_indices: [ ]
+    correct_indices: [ B ]
   Q17:
-    correct_indices: [ ]
+    correct_indices: [ A,C,D,E ]
   Q18:
-    correct_indices: [ ]
+    correct_indices: [ A,D ]
   Q19:
-    correct_indices: [ ]
+    correct_indices: [ A,B,C,D,E ]
   Q20:
-    correct_indices: [ ]
+    correct_indices: [ A,C,D ]
   Q21:
-    correct_indices: [ ]
+    correct_indices: [ A,C,E ]
   Q22:
-    correct_indices: [ ]
+    correct_indices: [ B ]
   Q23:
-    correct_indices: [ ]
+    correct_indices: [ A,B,D,E ]
   Q24:
-    correct_indices: [ ]
+    correct_indices: [ A,B,C,D,E ]
   Q25:
-    correct_indices: [ ]
+    correct_indices: [ A,B,C,E ]
   Q26:
-    correct_indices: [ ]
+    correct_indices: [ C ]
   Q27:
-    correct_indices: [ ]
+    correct_indices: [ A,B,C,D,E ]

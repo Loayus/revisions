@@ -212,6 +212,33 @@
   cursor: not-allowed;
 }
 
+.option--disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  background-color: #f0f0f0 !important;
+}
+
+.option--disabled:hover {
+  background-color: #f0f0f0 !important;
+}
+
+.question--no-correction {
+  background-color: #f9f9f9;
+  opacity: 0.75;
+  border-color: #d0d0d0;
+}
+
+.question-no-correction-msg {
+  background-color: #f0f0f0;
+  color: #666;
+  padding: 10px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-style: italic;
+  margin-bottom: 16px;
+  border-left: 3px solid #a0a0a0;
+}
+
 .option-letter {
   font-weight: 600;
   margin-right: 15px;

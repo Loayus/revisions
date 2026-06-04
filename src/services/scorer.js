@@ -1,6 +1,5 @@
 export function calculateScore(correctIndices, userAnswers) {
   const correctSet = new Set(correctIndices);
-  const userAnswersSet = new Set(userAnswers);
 
   const nbCorrectAnswers = correctIndices.length;
 
@@ -40,13 +39,17 @@ export function calculateAllResults(test, userAnswersMap) {
       test.correction.questions[questionKey]?.correct_indices || [];
     const userAnswers = userAnswersMap[questionKey] || [];
 
-    const points = calculateScore(correctIndices, userAnswers);
+    // Déterminer si la question a une correction
+    const hasCorrection = correctIndices && correctIndices.length > 0;
+
+    const points = hasCorrection ? calculateScore(correctIndices, userAnswers) : 0;
 
     results.push({
       questionIndex: questionKey,
       correctIndices,
       userAnswers,
       points,
+      hasCorrection,
     });
   }
 
