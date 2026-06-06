@@ -24,12 +24,13 @@ export async function getAllTests() {
     const tests = [];
 
     const semestres = [
-        {sem: '3', subjects: ['socio']},
+        {sem: '3', subjects: ['socio', 'science']},
         {sem: '4', subjects: ['psycho', 'science_educ']}
     ];
 
     const testNameMap = {
         'socio-3': 'sem3_socio_s1_annal_2024_2025',
+        'science-3': 'sem3_science_s1_decembre_2025',
         'psycho-4': 'sem4_psycho_s2_annal_2024_2025',
         'science_educ-4': 'sem4_science_educ_s2_annal_2024_2025'
     };

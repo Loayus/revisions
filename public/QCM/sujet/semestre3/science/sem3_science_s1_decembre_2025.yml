@@ -1,0 +1,395 @@
+année: "2025-2026"
+semestre: 3
+session: 1
+matière: "Science"
+titre: "Semestre 3 : Session 1 - Science - Décembre 2025"
+Q1:
+  title: "A propos.des articulations et des mouvements du membre inférieur :"
+  options:
+    - "La hanche autorise 3 degrés de liberté et est de type sphéroïde."
+    - "L'articulation fémoro-patellaire intervient dans la flexion et l'extension de la cheville"
+    - "Il existe deux articulations tibio-fibulaires au niveau de la jambe."
+    - "L'inversion associe les mouvements de flexion plantaire, adduction et pronation au niveau de la cheville et du pied."
+    - "L'axe du troisième rayon du pied est considéré comme l'axe du pied"
+Q2:
+  title: "A propos des muscles ischio-jambiers :"
+  options:
+    - "Ils sont au nombre de 2"
+    - "Ils'sont fléchisseurs du genou:"
+    - "Ils ont une fonction de rotation et de stabilisation du genou"
+    - "L'origne des ischio-jambiers se situent sur l'aile iliaque."
+    - "Ils sont innervés par le nerf fémoral."
+Q3:
+  title: "A propos des muscles de la région glutéale :"
+  options:
+    - "Ils incluent le grand, moyen et petit fessier appelés grand"
+    - "Ils participent à la stabilisation de la hanche."
+    - "Le grand adducteur partie de cette région."
+    - "Ils s’insèrent sur la face latérale de l'os coxal."
+    - "Is sont essentiellement fléchisseurs de la hanche."
+Q4:
+  title: "A propos du fémur :"
+  options:
+    - "Il est l'os le plus long du corp humain"
+    - "il s'aricule avc l'os coxal par son extrémité proximale"
+    - "Son angle cervico-diaphysaire est d'environ 170°"
+    - "Il présente un grand et un petit trochanter qui sont situés au niveau distal"
+    - "Le col fémoral relie la tête fémorale à la diaphyse"
+Q5:
+  title: "A propos du grand trochanter :"
+  options:
+    - "Il sert de point d'insertion pour les muscles petit et moyen fessier exclusivement"
+    - "Il se situe sur l'extrémité proximale et latéral du fémur"
+    - "Le muscle piriforme s'insère sur le petit trochanter."
+    - "Il est recouvert de cartilage."
+    - "Il ne sert pas de point d'insertion au muscle psoas."
+Q6:
+  title: "A propos du tibia :"
+  options:
+    - "Il est le principal os porteur de la jambe."
+    - "La crête tibiale est située sur la face postérieure du tibia."
+    - "La patte d'oie est une zone d'insertion du gracile, du semi-tendineux, du sartorius et du ligament collatéral médial du genou (= ligament interne du genou)."
+    - "La tubérosite tibiale postérieure sert d'insertion au ligament patellaire."
+    - "La malléole médiale fait partie de l'articulation de la cheville."
+Q7:
+  title: "A propos du talus"
+  options:
+    - "Il s'articule avec le tibia et la fibula en haut et les métatarses en avant."
+    - "Il est situé dans l'arrière-pied."
+    - "Il ne supporte pas le poids du corps."
+    - "Il s'articule avec le naviculaire au niveau de sa tête"
+    - "Il est relié au calcanéum par sa face inférieure"
+Q8:
+  title: "A propos de l'articulation du genou"
+  options:
+    - "C'est une articulation en charnière."
+    - "Elle inclut le fémur, le tibia et la patella"
+    - "Elle possède deux capsules distinctes."
+    - "Les surfaces osseuses du fémur et du tibia sont bien adaptées l’une à l'autre."
+    - "Elle est stabilisée activement par les muscles péri rticulaires du genou."
+Q9:
+  title: "A propos des ménisques :"
+  options:
+    - "Is n'augmentent pas la congruence articulaire du genou entre le fémur et le tibia"
+    - "Le ménisque médial est en forme de C"
+    - "Le ménisque latéral est en forme de O"
+    - "Ils ne répartissent pas les forces et les contraintes sur le genou"
+    - "Ils sont constitués de tissu fibrocartilagineux."
+Q10:
+  title: "A propos du système nerveux :"
+  options:
+    - "La fonction motrice volontaire dépend de l'activation des muscles striés squelettiques par les voies afférentes."
+    - "Le système nerveux central est composé des récepteurs sensoriels et du télencéphale."
+    - "Le système nerveux central intervient dans la programmation et la transmission des messages efférents."
+    - "Le système nerveux  central joue un rôle dans l'intégration des messages afférents"
+    - ""
+Q11:
+  title: "A propos des messages nerveux :"
+  options:
+    - "Les messages somatiques désignent les messages à destination des muscles striés squelettiques."
+    - "Les messages autonomes (ou végétatifs) désignent les messages nerveux à destination des organes ou des glandes."
+    - "Les messages afférents désignent les messages en provenance du système nerveux central et à destination des muscles"
+    - "La propagation des messages nerveux le long des axones se fait sous formes de potentiels d'action"
+    - "Les potentiels gradués représentent des messages nerveux circulant notamment le lond des dendrites"
+Q12:
+  title: "Concernant les cellules gliales :"
+  options:
+    - "Le préfixe gli- provient du grec, << glissum >> qui signifie << glisser >>"
+    - "Les astrocytes sont des cellules excitables ét conductibles:"
+    - "Les épendymocytes sont des cellules excitables et conductibles"
+    - "Les astrocytes et les épendymocytes sont présents dans le système nerveux central"
+    - "Les astrocytes et les épendymocytes sont présents dans le système nerveux périphérique"
+Q13:
+  title: "Concernant les potentiels d'action :"
+  options:
+    - "Il se propsage lorsque le seuil des -55mV est atteint au niveau du cône d'implantation de l'axone"
+    - "Il s'agit d'un type de message nerveux que l'on retrouve spécifiquement dans le système nerveux central"
+    - "Il aboutit irrémédiablement à la formation d'un potentiel gradué"
+    - "Il est associé à une phase de dépolarisation, engendrée par des flux d'ions sodium (Na+)"
+    - "La phase de repolarisation est associée à la fermeture des canaux sodiques et à l'ouverture de cannaux potassiques"
+Q14:
+  title: "Concernant les potentiels gradués :"
+  options:
+    - "Il se propsage lorsque le seuil des -55mV est atteint le long des dentrites des neurones"
+    - "Il s'agit du message nerveux typique que l'on retrouve spécifiquement dans le système nerveux périphérique"
+    - "il aboutit irrémédiablement à la formation d'un potentiel d'action"
+    - "Il peut être associé à l'ouverture de cannaux NA+, engendrant un potentiel excitateur"
+    - "Il peut être associé à l'ouverture de cannaux K+, engendrant un potentiel inhibitheur"
+Q15:
+  title: "Concernant le potentiel de repos :"
+  options:
+    - "Il est associé à la répartition inégale des ions de part et d'autre de la membrane du neurone, impliquant une accumulation de charges positives à l'intérieur de la membrane."
+    - "Il est associé à la forte perméabilité de la membrane aux ions Na+."
+    - "Il est associé à la forte perméabilité de la membrane aux ions K+."
+    - "Le potentiel de repos correspond à un état lors duquel les flux d'ions sont interrompus."
+    - "Il se situe proche des 0 mV."
+
+Q16:
+  title: "Concernant l'activité synaptique :"
+  options:
+    - "La fixation de l'acétylcholine sur les récepteurs des cellules musculaires entraine une hyperpolarisation de la membrane."
+    - "La nicotine, en se liant aux récepteurs nicotiniques présents sur les neurones du système nerveux central, dépolarise la membrane du neurone post-synaptique."
+    - "Les récepteurs cholinergiques peuvent être ciblés par des traitements visant à réduire les spasmes musculaires."
+    - "Le botox (toxine botulique) empêche les contractions musculaires en se fixant sur les récepteurs cholinergiques (on dit que le botox et l'acétylcholine forment un couple d'agonistes)."
+    - "L'acétylcholine inhibe l'activité cardiaque en ralentissant la fréquence de battement, si elle se fixe sur les récepteurs muscariniques."
+
+Q17:
+  title: "Concernant les voies de transmission des messages nerveux :"
+  options:
+    - "La voie spinothalamique désigne la voie de transmissions des afférences en provenance des propriocepteurs et à destination du cervelet."
+    - "Le thalamus agit comme un point de relais pour la transmission des messages afférents."
+    - "La voie du cordon dorsal désigne le trajet emprunté par les afférences somatesthésiques."
+    - "Les voies motrices principales et secondaires ont systématiquement comme point de départ commun l'aire pré-motrice."
+    - "La voie pyramidale désigne la voie qui part du bras droit, remontant jusqu'à l'encéphale en passant par la moelle épinière, avant de redescendre jusqu'au bras gauche."
+
+Q18:
+  title: "Concernant l'intégration et le télencéphale :"
+  options:
+    - "Le gyrus post-central est le lieu d'intégration primaire des informations somatesthésiques."
+    - "Le gyrus précentral contribue à l'intégration multimodale. Il apporte une dimension sensorielle au traitement de l'information."
+    - "La cortex préfrontal contribue à l'intégration multimodale. Elle apporte une dimension emotionnelle."
+    - "L'inule contribue à l'intégration multimodale. Elle apporte une dimension emotionnelle au traitement de l'information."
+    - "Les aires visuelles sont situées dans le lobe temporal."
+
+Q19:
+  title: "Lorsque l'on étudie l'évolution de la consommation d'oxygène à l'exercice, on peut étudier les paramètres suivants :"
+  options:
+    - "Le débit cardiaque mesuré en L/min"
+    - "La ventilation pulmonaire exprimée en kg/min"
+    - "Le volume d'éjection systolique exprimé en mL par battements"
+    - "Le contenu artériel en dioxyde de carbone en mL/100mL de sang"
+    - "La différence artério-veineuse en oxygène exprimée en mL d'O2/L de sang"
+
+Q20:
+  title: "Lorsque l'on compare un sujet sédentaire et un athlète en endurance qui ont un morphotype identique :"
+  options:
+    - "Les deux sujets auront une fréquence cardiaque de repos identique"
+    - "La consommation d'oxygène au repos est supérieure chez le sportif"
+    - "Le débit cardiaque maximal est supérieur chez le sportif"
+    - "Le contenu veineux en oxygène au repos et à l'effort maximal est plus faible chez le sujet sédentaire"
+    - "Leur consommation d'oxygène sera identique s'ils courent à 10 km/h"
+
+Q21:
+  title: "A propos de la composante centrale de l'équation de Fick :"
+  options:
+    - "La fréquence cardiaque est l'une des deux variables qui la compose"
+    - "Elle reflète le débit cardiaque"
+    - "Lors d'un exercice incrémental ou triangulaire, les valeurs augmentent exponentiellement avec l'intensité de l'exercice"
+    - "L'entraînement n'affecte pas les paramètres qui la compose"
+    - "Divisée par la composante périphérique, elle permet d'obtenir la consommation d'oxygène"
+
+Q22:
+  title: "Au sujet de débit cardiaque :"
+  options:
+    - "L'augmentation du débit cardiaque à l'effort n'est possible que si le débit veineux augmente de manière similaire au débit artériel"
+    - "La contraction musculaire favorise le retour veineux"
+    - "Lors de l'inspiration, la pression intra-abdominale augmente et favorise le retour veineux"
+    - "La systole auriculaire favorise le retour veineux"
+    - "Le système veineux est considéré comme un système à haute pression"
+
+Q23:
+  title: "Au sujet du volume d'éjection systolique à l'effort :"
+  options:
+    - "Il augmente de manière linéaire avec l'intensité de l'exercice"
+    - "Le volume télédiastolique augmente avec l'intensité de l'exercice"
+    - "Le volume télésystolique augmente avec l'intensité de l'exercice"
+    - "Le volume d'éjection systolique est influencé par la compliance ventriculaire"
+    - "Le volume d'éjection systolique est le facteur plus important à l'effort chez le sportif, notamment au raison d'un débit de remplissage du ventricule plus élevé"
+
+Q24:
+  title: "A propos de la distribution du débit sanguin à l'effort :"
+  options:
+    - "Le volume sanguin dédié au cerveau est identique quel que soit l'intensité de l'exercice"
+    - "Le volume sanguin dédié au muscle atteint environ 50% du débit cardiaque à l'effort maximal"
+    - "La vasoconstriction du lit capillaire à l'effort permet de diminuer les résistances périphériques"
+    - "Les territoires splanchniques reçoivent de moins en moins de sang au fur et à mesure que l'intensité de l'exercice augmente"
+    - "Lorsqu'un sujet effectue un exercice maximal impliquant les membres supérieurs et inférieurs, le débit sanguin dirigé vers les membres inférieurs est identique à un effort maximal sollicitant uniquement les membres inférieurs"
+
+Q25:
+  title: "Au sujet du transport de l'oxygène :"
+  options:
+    - "La qualité des échanges pulmonaires n'est pas affectée à l'effort (la PaO2 reste similaire quelle que soit l'intensité de l'effort)"
+    - "Le contenu artériel en oxygène diminue avec l'intensité de l'effort"
+    - "L'augmentation du contenu en hémoglobine permet d'améliorer les performances en endurance"
+    - "Une carence en fer réduit la capacité de fixation et de transport de l'oxygène"
+    - "La libération de l'oxygène au niveau musculaire est facilitée par l'effet Haldane"
+
+Q26:
+  title: "Concernant l'extraction de l'oxygène au niveau musculaire :"
+  options:
+    - "Elle augmente avec l'intensité de l'oxygène"
+    - "La capacité maximale à extraire de l'oxygène est indépendante du niveau d'entraînement"
+    - "Le débit sanguin musculaire augmente de manière exponentielle avec l'intensité de l'exercice"
+    - "L'extraction de l'oxygène est facilitée par l'effet Bohr"
+    - "Le débit sanguin musculaire est couplé à la demande énergétique pour favoriser l'apport en oxygène"
+
+Q27:
+  title: "A propos de la ventilation pulmonaire :"
+  options:
+    - "La ventilation augmente proportionnellement avec l'intensité de l'effort"
+    - "La fréquence ventilatoire peut atteindre 60 cycles par minute à l'effort maximal"
+    - "Le volume courant est d'environ 6L à l'effort maximal"
+    - "Au cours de l'exercice continue (par exemple 10 min à 15 km/h), la ventilation augmente rapidement dès le début de l'exercice"
+    - "A l'arrêt de l'effort, une phase lente de récupération est observée"
+
+Q28:
+  title: "A propos de la consommation d'oxygène et du rejet de CO2 :"
+  options:
+    - "Il faut mesurer la fraction expirée en oxygène pour déterminer la consommation d'oxygène"
+    - "La fraction expirée en CO2 augmente de manière linéaire avec l'intensité de l'exercice"
+    - "Les deux paramètres évoluent de manière proportionnelle avec l'intensité de l'effort"
+    - "Le quotient respiratoire se détermine au niveau du muscle"
+    - "Le ratio d'échange respiratoire se calcule en divisant la consommation d'oxygène par le rejet de CO2"
+
+Q29:
+  title: "Au sujet de l'organisation du muscle :"
+  options:
+    - "La fibre musculaire est entourée d'une enveloppe appelée endomysium"
+    - "Les fibres musculaires sont regroupées dans des faisceaux"
+    - "Le faisceau musculaire est entouré d'épimysium"
+    - "Les fibres musculaires ont toutes la même forme"
+    - "Le muscle est enveloppé par le périmysium"
+
+Q30:
+  title: "Au sujet des protéines musculaires :"
+  options:
+    - "Le filament d'actine est composé de deux brins d'actine G"
+    - "Le filament de myosine est plus fin que le filament d'actine"
+    - "La titine est une protéine de structure"
+    - "La nébuline aide la myosine à s'aligner"
+    - "La dystrophine est une protéine de structure"
+
+Q31:
+  title: "Lors de la contraction musculaire :"
+  options:
+    - "Le signal nerveux transmet directement le signal électrique à la membrane musculaire"
+    - "L'acétylcholine est le neurotransmetteur utilisé lors de la contraction musculaire"
+    - "Le potentiel d'action se propage le long des tubules T"
+    - "L'activation du récepteur DHP entraîne la libération de potassium par le réticulum sarcoplasmique"
+    - "La tête de myosine s'attache au filament d'actine sur le site de liaison protégé par la tropomyine C"
+
+Q32:
+  title: "Au sujet des propriétés musculaires :"
+  options:
+    - "La force produite par un sarcomère varie avec sa longueur"
+    - "La force n'est pas proportionnelle au nombre de ponts formés entre l'actine et la myosine"
+    - "Lorsque les impulsions nerveuses sont très proches on observe un tétanos incomplet"
+    - "V0 correspond à la vitesse maximale théorique calculée sur un profil force-vitesse"
+    - "La puissance s'exprime en watts"
+
+Q33:
+  title: "Une fibre à secousse lente oxydative :"
+  options:
+    - "Est une fibre rapide de type IIx"
+    - "Est utilisée majoritairement pour le maintien de la posture"
+    - "Est associée à une densité capillaire faible"
+    - "A une couleur rose pâle"
+    - "Est très résistante à la fatigue"
+
+Q34:
+  title: "Une fibre à secousse rapide glycolytique :"
+  options:
+    - "Se caractérise par une vitesse de développement de la tension maximale plus rapide qu'une fibre à secousse lente oxydative"
+    - "Présente une activité ATPasique la plus rapide parmi les différentes typologies musculaires"
+    - "A une durée de contraction longue"
+    - "Est peu résistante à la fatigue"
+    - "Est sollicitée lors d'un effort en endurance"
+
+Q35:
+  title: "A propos des unités motrices :"
+  options:
+    - "Un neurone moteur innerve plusieurs fibres musculaires"
+    - "Les fibres stimulées par une unité motrice sont réparties de manière homogène dans le muscle"
+    - "Une fibre musculaire peut être stimulée par un seul neurone moteur"
+    - "La loi de Henneman explique l'ordre de recrutement des unités motrices en fonction de la vitesse de la contraction"
+    - "Lors de la marche (intensité faible), on utilise les fibres lentes et rapides"
+
+Q36:
+  title: "A propos de la production de force :"
+  options:
+    - "Toutes les fibres musculaires participent de manière identique pour la contraction musculaire"
+    - "Plus la fréquence des influx nerveux augmente (par ex : 100Hz vs 30 Hz), plus la force produite augmente"
+    - "Une baisse de la température permet d'augmenter la force produite"
+    - "Après un échauffement, le niveau de force produit par une fibre est augmenté"
+    - "Un bras de levier élevé est bénéfique pour la production de force"
+
+Q37:
+  title: "A propos de l'énergie développée par un sauteur en hauteur :"
+  options:
+    - "Lors de la phase de course d'élan, le sauteur accumule de l'énergie cinétique."
+    - "Lors de la chute après avoir passé la barre, l'énergie potentielle de pesanteur est convertie en énergie cinétique."
+    - "Au moment où le sauteur passe au-dessus de la barre, le reste de l'énergie cinétique est convertie en énergie potentielle de pesanteur pour atteindre la hauteur maximale."
+    - "Lors de la déflexion de la perche, le sauteur récupère l'énergie de la perche pour acquérir de l'énergie potentielle de pesanteur et de l'énergie cinétique."
+    - "Lors de la phase de flexion de la perche, le sauteur transfère l'énergie cinétique acquise lors de la course d'élan en énergie potentielle élastique dans la perche."
+
+Q38:
+  title: "A propos de la puissance :"
+  options:
+    - "Si un cycliste développe un travail de 1000 joules en 10 secondes, sa puissance moyenne est de 100 watts."
+    - "La puissance se mesure en Joules."
+    - "La puissance d'une force quantifie sa rapidité à exercer un travail."
+    - "Si un cycliste développe une force de 100 newtons à une vitesse de 10m.sec⁻¹, sa puissance sera de 100 watts."
+    - "La puissance instantanée est égale au produit de la force instantanée par la vitesse instantanée."
+
+Q39:
+  title: "A propos du travail :"
+  options:
+    - "Si une force est perpendiculaire au déplacement, le travail de cette force est nul."
+    - "La valeur du travail est maximale quand la force qui effectue le travail est parallèle au mouvement."
+    - "Si une force n'a pas d'objet en mouvement, on dit que cette force réalise un travail."
+    - "Le travail se mesure en watts."
+    - "La formule du travail est égale à : F x AB x sin a"
+
+Q40:
+  title: "A propos de l'analyse cinématique :"
+  options:
+    - "Lors d'une trajectoire parabolique, la vitesse selon Oy est Vx(t) = -gt +VOx"
+    - "L'accélération angulaire moyenne correspond au rapport entre la variation de la position angulaire en mètre par seconde et la variation du temps en seconde."
+    - "Lors d'une trajectoire parabolique, l'équation horaire selon Ox est x(t) = -1/2 g t² + VO t + y0"
+    - "La vitesse angulaire moyenne se calcule par la formule suivante : ΔΘ/ΔT en rad/s. AΘ est la variation de la position angulaire et Δt est la variation du temps"
+    - "D'un point de vue graphique, l'accélération instantanée correspond à la pente de la tangente à la courbe (vitesse en fonction du temps) à un instant précis."
+
+Q41:
+  title: "A propos de l'analyse dynamique :"
+  options:
+    - "L'analyse dynamique permet de rechercher les causes ou les raisons du mouvement"
+    - "L'analyse dynamique permet de répondre à la question suivante : pourquoi un corps commence-t-il à se mouvoir ?"
+    - "L'analyse dynamique permet de répondre à la question suivante : qu'est ce qui amène un corps à accélérer ou ralentir ?"
+    - "L'analyse dynamique prend en compte les forces et les moments de force."
+    - "L'analyse dynamique permet d'analyser la structure spatio-temporelle du mouvement."
+
+Q42:
+  title: "A propos de la quantité de mouvement et de l'impulsion :"
+  options:
+    - "L'impulsion peut se mesurer grâce à 2 méthodes : cinématique qui tient compte des vitesses et dynamique qui tient compte des forces"
+    - "Si aucune force externe n'agit sur un système, la quantité de mouvement de ce système reste constante."
+    - "La quantité de mouvement est une grandeur physique associée à la vitesse et au poids d'un objet."
+    - "L'impulsion correspond à une variation de la puissance."
+    - "La quantité de mouvement est égale au produit de la masse et de la vitesse et se mesure en kg.m.s⁻¹"
+
+Q43:
+  title: "A propos des lois de Newton :"
+  options:
+    - "Un corps soumis à une force résultante nulle subit une accélération directement proportionnelle à la force résultante qui lui est appliquée et orientée dans le même sens."
+    - "Le principe d'action-réaction correspond à la 2ème loi de Newton."
+    - "La relation fondamentale de la dynamique correspond à la 3ème loi de Newton."
+    - "Dans le cadre de la relation fondamentale de la dynamique et dans des conditions statiques ou d'équilibre, la somme des forces appliquées sur un corps est égale à zéro."
+    - "Tout corps A exerçant une force sur un corps B subit une force d'égale intensité, de même direction mais de sens opposé, exercée par le corps B."
+
+Q44:
+  title: "A propos des moments de force :"
+  options:
+    - "Quand la force appliquée est perpendiculaire au segment, le bras de levier correspond à la distance entre le point de rotation et le point d'application de la force."
+    - "Le moment d'une force est égal au produit de l'intensité de la force par son bras de levier élevé au carré"
+    - "Le moment de force rend compte de l'efficacité de la force en rotation"
+    - "Le moment d'une force représente son aptitude à faire tourner un système autour d'un point donné."
+    - "Quand la force appliquée n'est pas perpendiculaire au segment, il faut alors calculer la distance orthogonale due à l'inclinaison à partir de l'angle de la force et de la longueur du segment."
+
+Q45:
+  title: "A propos d'un salto avant :"
+  options:
+    - "Lors d'un salto réalisé sur un trampoline et sans déplacement vers l'avant, il sera possible de calculer l'énergie cinétique de rotation, l'énergie potentielle élastique et l'énergie potentielle de pesanteur."
+    - "Le moment d'inertie qui correspond à la masse multipliée par le rayon de giration élevé au carré, augmente si le gymnaste réalise un salto groupé par rapport à un salto corps tendu."
+    - "L'angle parcouru par un gymnaste lors d'un salto avant correspond à 4π radians."
+    - "Lors d'un salto avant, la vitesse angulaire correspond à la variation de l'angle parcouru par le temps en radian/seconde."
+    - "L'énergie cinétique se mesure en joules. L'énergie cinétique de translation est égale à ½.m.v² et l'énergie cinétique de rotation est égale à ½.I.ω²."

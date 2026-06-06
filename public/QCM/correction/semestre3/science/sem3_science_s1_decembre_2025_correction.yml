@@ -1,0 +1,91 @@
+questions:
+  Q1:
+    correct_indices: [ A,C ]
+  Q2:
+    correct_indices: [ B,C ]
+  Q3:
+    correct_indices: [ A,B,D ]
+  Q4:
+    correct_indices: [ A,B,E ]
+  Q5:
+    correct_indices: [ B,E ]
+  Q6:
+    correct_indices: [ A,C,E ]
+  Q7:
+    correct_indices: [ B,D,E ]
+  Q8:
+    correct_indices: [ A,B,E ]
+  Q9:
+    correct_indices: [ B,C,E ]
+  Q10:
+    correct_indices: [ A,D ]
+  Q11:
+    correct_indices: [ A,D,E ]
+  Q12:
+    correct_indices: [ D ]
+  Q13:
+    correct_indices: [ A,D,E ]
+  Q14:
+    correct_indices: [ D ]
+  Q15:
+    correct_indices: [ C ]
+  Q16:
+    correct_indices: [ B,C,E ]
+  Q17:
+    correct_indices: [ B ]
+  Q18:
+    correct_indices: [ A,C,D ]
+  Q19:
+    correct_indices: [ A,C,E ]
+  Q20:
+    correct_indices: [ C ]
+  Q21:
+    correct_indices: [ A,B ]
+  Q22:
+    correct_indices: [ A,B ]
+  Q23:
+    correct_indices: [ B,D,E ]
+  Q24:
+    correct_indices: [ A,D ]
+  Q25:
+    correct_indices: [ A,C,D ]
+  Q26:
+    correct_indices: [ A,D,E ]
+  Q27:
+    correct_indices: [ D,E ]
+  Q28:
+    correct_indices: [ A,D ]
+  Q29:
+    correct_indices: [ A,B ]
+  Q30:
+    correct_indices: [ C,E ]
+  Q31:
+    correct_indices: [ B ]
+  Q32:
+    correct_indices: [ E ]
+  Q33:
+    correct_indices: [ B,E ]
+  Q34:
+    correct_indices: [ A,B,D ]
+  Q35:
+    correct_indices: [ D,E ]
+  Q36:
+    correct_indices: [ B,D,E ]
+  Q37:
+    correct_indices: [ A,B,C,D,E ]
+  Q38:
+    correct_indices: [ A,C,E ]
+  Q39:
+    correct_indices: [ A,B,C ]
+  Q40:
+    correct_indices: [ D,E ]
+  Q41:
+    correct_indices: [ A,B,C,D ]
+  Q42:
+    correct_indices: [ B,E ]
+  Q43:
+    correct_indices: [ D,E ]
+  Q44:
+    correct_indices: [ A,C,D,E ]
+  Q45:
+    correct_indices: [ A,D,E ]
