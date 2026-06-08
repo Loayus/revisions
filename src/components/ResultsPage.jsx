@@ -1,3 +1,5 @@
+import {getImageUrl} from '../assets/imageMap'
+
 const css = `
   @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap');
 
@@ -289,14 +291,31 @@ const css = `
      background: rgba(61,46,46,.12) !important;
      color: var(--muted) !important;
    }
-   .res-no-correction-msg {
-     font-size: .85rem;
-     color: var(--muted);
-     padding: 10px 12px;
-     background: rgba(61,46,46,.08);
-     border-radius: 10px;
-     font-style: italic;
-   }
+    .res-no-correction-msg {
+      font-size: .85rem;
+      color: var(--muted);
+      padding: 10px 12px;
+      background: rgba(61,46,46,.08);
+      border-radius: 10px;
+      font-style: italic;
+    }
+
+    /* ── Visuel ── */
+    .res-question-visuel {
+      margin: 1rem 0;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+    }
+    .res-question-visuel img {
+      max-width: 100%;
+      max-height: 350px;
+      width: auto;
+      height: auto;
+      border: 1px solid rgba(255,255,255,.9);
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(61,46,46,.08);
+    }
 `;
 
 function getFeedback(pct) {
@@ -328,6 +347,9 @@ export default function ResultsPage({test, results, onBackClick}) {
 
     /* Couleur de l'anneau selon score */
     const ringColor = pct >= 75 ? '#a8c5b0' : pct >= 50 ? '#c5b8e8' : '#e8a598';
+
+    // Récupère juste le nom de fichier de ton YAML
+    const imageUrl = question.visuel ? getImageUrl(question.visuel) : null;
 
     return (
         <div className="res-page">
@@ -391,11 +413,16 @@ export default function ResultsPage({test, results, onBackClick}) {
                                 style={{animationDelay: `${idx * 0.06 + 0.4}s`}}
                             >
                                 <div className="res-q-top">
-                                    <span className="res-q-title">
-                                        {result.questionIndex}. {question.title}
-                                    </span>
+                                     <span className="res-q-title">
+                                         {result.questionIndex}. {question.title}
+                                     </span>
                                     <span className="res-q-pill res-q-pill--no-correction">Pas de correction</span>
                                 </div>
+                                {question.visuel && (
+                                    <div className="res-question-visuel">
+                                        <img src={imageUrl} alt="Visuel pour la question"/>
+                                    </div>
+                                )}
                                 <div className="res-no-correction-msg">
                                     ℹ️ Pas de correction pour cette question
                                 </div>
@@ -413,11 +440,17 @@ export default function ResultsPage({test, results, onBackClick}) {
                             style={{animationDelay: `${idx * 0.06 + 0.4}s`}}
                         >
                             <div className="res-q-top">
-                <span className="res-q-title">
-                  {result.questionIndex}. {question.title}
-                </span>
+                 <span className="res-q-title">
+                   {result.questionIndex}. {question.title}
+                 </span>
                                 <span className={`res-q-pill ${pillClass}`}>{pillLabel}</span>
                             </div>
+
+                            {question.visuel && (
+                                <div className="res-question-visuel">
+                                    <img src={`/${question.visuel}`} alt="Visuel pour la question"/>
+                                </div>
+                            )}
 
                             <div className="res-options">
                                 {question.options?.map((option, optIdx) => {

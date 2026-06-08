@@ -23,26 +23,33 @@ export async function loadYAML(path) {
 export async function getAllTests() {
     const tests = [];
 
-    const semestres = [
-        {sem: '3', subjects: ['socio', 'science']},
-        {sem: '4', subjects: ['psycho', 'science_educ']}
+    const testsConfig = [
+        {
+            sem: '3',
+            subject: 'socio',
+            testNames: ['sem3_socio_s1_annal_2024_2025', 'sem3_socio_s2_annal_2024_2025']
+        },
+        {
+            sem: '3',
+            subject: 'science',
+            testNames: ['sem3_science_s1_decembre_2025', 'sem3_science_s1_annal_2024_2025']
+        },
+        {
+            sem: '4',
+            subject: 'psycho',
+            testNames: ['sem4_psycho_s2_annal_2024_2025']
+        },
+        {
+            sem: '4',
+            subject: 'science_educ',
+            testNames: ['sem4_science_educ_s2_annal_2024_2025']
+        }
     ];
 
-    const testNameMap = {
-        'socio-3': 'sem3_socio_s1_annal_2024_2025',
-        'science-3': 'sem3_science_s1_decembre_2025',
-        'psycho-4': 'sem4_psycho_s2_annal_2024_2025',
-        'science_educ-4': 'sem4_science_educ_s2_annal_2024_2025'
-    };
-
-    for (const semestre of semestres) {
-        for (const subject of semestre.subjects) {
-            const testName = testNameMap[`${subject}-${semestre.sem}`];
-
-            if (!testName) continue;
-
-            const subjetPath = `/QCM/sujet/semestre${semestre.sem}/${subject}/${testName}.yml`;
-            const correctionPath = `/QCM/correction/semestre${semestre.sem}/${subject}/${testName}_correction.yml`;
+    for (const config of testsConfig) {
+        for (const testName of config.testNames) {
+            const subjetPath = `/QCM/sujet/semestre${config.sem}/${config.subject}/${testName}.yml`;
+            const correctionPath = `/QCM/correction/semestre${config.sem}/${config.subject}/${testName}_correction.yml`;
 
             console.log('Loading:', subjetPath, correctionPath);
 
@@ -51,10 +58,10 @@ export async function getAllTests() {
 
             if (subjetData && correctionData) {
                 tests.push({
-                    id: `sem${semestre.sem}-${subject}-${testName}`,
+                    id: `sem${config.sem}-${config.subject}-${testName}`,
                     name: subjetData.titre,
-                    semestre: semestre.sem,
-                    subject,
+                    semestre: config.sem,
+                    subject: config.subject,
                     testName,
                     sujet: subjetData,
                     correction: correctionData
