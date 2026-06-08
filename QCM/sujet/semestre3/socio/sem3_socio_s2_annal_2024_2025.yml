@@ -1,0 +1,245 @@
+année: "2024-2025"
+semestre: 3
+session: 2
+matière: "Sociologie"
+titre: "Semestre 3 : Session 2 - Sociologie - Annale 2024-2025"
+Q1:
+  title: "La méthode qualitative est utilisée par le sociologue pour répondre à la problématique de recherche :"
+  options:
+    - "Il s'agit exclusivement d'entretiens"
+    - "Il peut utiliser la méthode qualitative et quantitative simultanément."
+    - "Dans la méthode qualitative, le chercheur utilise aussi de longues séries de données."
+    - "Les entretiens sont très courts."
+    - "Les ethnologues utilisent davantage la méthode qualitative que quantitative."
+Q2:
+  title: "Le savoir scientifique produit par la sociologie consiste en :"
+  options:
+    - "Des savoirs à visée opérationnelle."
+    - "Des savoirs à visée politique."
+    - "Des savoirs à dimension plus théorique."
+    - "Des connaissances empiriques."
+    - "Des connaissances proches des connaissances journalistiques."
+Q3:
+  title: "Dans le texte « les jeunes de cité », Éric Marlière mène une enquête ethnographique."
+  options:
+    - "L'ethnologue est serein dans sa manière d'enquêter et n'a pas l'impression d'être observé par ceux qu'il observe lui-même."
+    - "D'un point de vue déontologique il n'y a pas à se poser de questions."
+    - "Éric Marlière est indigène à la cité et doit faire attention pour être objectif."
+    - "Le sociologue doit toujours se déclarer auprès de la population qu'il étudie."
+    - "La neutralité axiologique est toujours possible."
+Q4:
+  title: "Dans l'utilisation du sport comme outil d'éducation et d'intégration, que signifie la « conditionnalité des effets » ?"
+  options:
+    - "Que le transfert de schèmes d'un univers social à un autre est systématique."
+    - "Que l'effort développé dans le sport entraîne mécaniquement un réinvestissement de cet effort dans d'autres situations (scolaires ou professionnelles)."
+    - "Que le respect de la règle sportive entraîne forcément le respect des règles sociales."
+    - "Que le transfert de compétences ne peut fonctionner que si les situations sont comparables et si le transfert s'accompagne d'une réflexivité."
+    - "Que le respect du corps arbitral conduit à respecter automatiquement les forces de l'ordre."
+Q5:
+  title: "A propos des enquêtes sur les pratiques sportives, quelle(s) proposition(s) est (sont) vraie(s) ?"
+  options:
+    - "La pratique sportive licenciée est principalement le fait des jeunes."
+    - "Les femmes sont majoritaires dans les fédérations multisports."
+    - "Le football compte plus de 3 millions de licenciés."
+    - "La pratique occasionnelle est en baisse dans toutes les fédérations."
+    - "Au total en 2018, il y a plus de 17 millions de licenciés en France."
+Q6:
+  title: "La démarche de recherche scientifique :"
+  options:
+    - "Ne nécessite pas de connaissances dans le domaine abordé par la recherche."
+    - "Nécessite une maîtrise de la démarche constructive et productive."
+    - "Se base sur l'observation et comporte des exigences théoriques et méthodologiques."
+    - "Débute par la formulation d'une hypothèse et se termine par l'analyse."
+    - "Nécessite une certaine aptitude à écrire pour rédiger le rapport de recherche."
+Q7:
+  title: "Concernant les impacts de l'activité physique sur la santé, quelle(s) proposition(s) est (sont) vraie(s) ?"
+  options:
+    - "L'inactivité physique est la deuxième cause de mortalité évitable dans le monde."
+    - "L'activité physique régulière diminue le risque de mortalité précoce de 30%."
+    - "Une activité physique régulière permet d'éviter 10 à 15% des cancers du sein, du colon et de l'endomètre."
+    - "L'activité physique régulière peut soigner des diabètes de type 2 chez des sujets pré-diabétiques."
+    - "Chez la personne âgée, la pratique d'une activité physique peut retarder la survenue de la dépendance de 7 à 10 ans."
+Q8:
+  title: "Dans la séquence de la démarche des sciences sociales, quelle(s) réponse(s) est (sont) juste(s) ?"
+  options:
+    - "Le premier temps est celui de l'exploration."
+    - "La construction du modèle d'analyse est précédée par la problématique."
+    - "La dernière étape consiste en l'analyse des résultats."
+    - "On identifie 8 étapes différentes."
+    - "La construction du modèle d'analyse est suivie par l'analyse des résultats."
+Q9:
+  title: "En tant que science, la sociologie se caractérise par :"
+  options:
+    - "La rupture contre l'objectivité."
+    - "La rupture contre les jugements de valeurs."
+    - "La rupture contre la sociologie spontanée."
+    - "La rupture contre les représentations individuelles."
+    - "La rupture contre les prénotions."
+Q10:
+  title: "Pendant la période historique de la Guerre Froide, la République Fédérale d'Allemagne :"
+  options:
+    - "A mis en place un système de dopage institutionnalisé."
+    - "A augmenté considérablement le nombre de médailles gagnées lors des JO."
+    - "A organisé le dopage de plus de 10 000 athlètes."
+    - "A remporté plus de 90 médailles aux JO de 1988."
+    - "N'a pas mis en place un système de dopage institutionnalisé."
+Q11:
+  title: "Quelle(s) proposition(s) est (sont) vraie(s) ?"
+  options:
+    - "Plus de 50 % des adultes (hommes et femmes) atteignent les recommandations de l'OMS en matière d'activité physique."
+    - "Pour les 18-64 ans, l'OMS recommande au moins 200 minutes d'activité d'endurance par semaine."
+    - "Plus de 50 % des enfants (garçons et filles) atteignent les recommandations de l'OMS en matière d'activité physique."
+    - "L'inactivité physique est la deuxième cause de mortalité évitable dans les pays développés."
+    - "Entre 2006 et 2015 le temps passé devant les écrans par les enfants a diminué."
+Q12:
+  title: "L'insécurité dans les grandes cités est étudiée par les sociologues et commentée par les médias."
+  options:
+    - "L'insécurité est naturelle."
+    - "L'insécurité n'est pas contingente."
+    - "L'insécurité doit aussi être étudiée historiquement."
+    - "L'insécurité est le produit de forces sociales."
+    - "L'insécurité doit être étudiée en rupture du sens commun."
+Q13:
+  title: "Parmi les définitions suivantes proposées par Bourdieu, laquelle (lesquelles) est (sont) correcte(s) ?"
+  options:
+    - "L'habitus est un système incorporé et incorporant, structuré et structurant qui prédispose l'individu."
+    - "Le capital social est l'ensemble des rituels construits sur la reconnaissance et le prestige."
+    - "Les capitaux sont des atouts qui permettent aux individus d'acheter, de produire et d'agir sur un marché."
+    - "Le champ est une sphère de la vie politique qui s'est autonomisée et qui possède ses propres règles de fonctionnement."
+    - "L'habitus correspond aux positions que les agents occupent au sein de l'espace des positions sociales."
+Q14:
+  title: "Qui est l'auteur de cette citation ? : « Le sport intègre des comportements, des rites, des représentations, des normes, des valeurs qui sont d'ordre économique, éthique, esthétique, pédagogique, politique ; il a une histoire et il est dans l'Histoire »."
+  options:
+    - "J. Defrance."
+    - "P. Bourdieu."
+    - "M. Bouet."
+    - "C. Bromberger."
+    - "E. Durkheim."
+Q15:
+  title: "Séghir Lazri dans son analyse sociologique du club de football lensois parle d'exotisme social."
+  options:
+    - "Le chant des « corons » en est l'exemple parfait."
+    - "La figure du mineur a complétement disparu dans la représentation collective."
+    - "Les valeurs des « gueules noires » ont disparu."
+    - "L'exotisme social s'exprime dans tous les clubs de football."
+    - "Le club lensois peut être rapproché du club sochalien dans la représentation collective ouvrière."
+Q16:
+  title: "A propos de l'utilité sociale de la sociologie, P. Bourdieu rappelle que la sociologie :"
+  options:
+    - "Doit comprendre le monde social."
+    - "Est l'étude de la société et des rapports sociaux."
+    - "Ne sert à rien."
+    - "Sert à empêcher que l'on puisse dire n'importe quoi sur le monde social."
+    - "Sert à lutter contre les pouvoirs politiques et médiatiques."
+Q17:
+  title: "Dans la définition de la socialisation, quelle(s) proposition(s) est (sont) correcte(s) ?"
+  options:
+    - "La socialisation est le processus dont la finalité est de permettre à certaines catégories sociales en situation d'exclusion de retrouver place dans la société."
+    - "La socialisation est le processus qui permet à une personne ou à un groupe de personnes de se rapprocher et de devenir membre d'un autre groupe plus vaste."
+    - "La socialisation se fait par intégration progressive des normes sociales qui préexistent et s'imposent aux individus."
+    - "La socialisation est un processus simple et linéaire d'intériorisation des normes, valeurs, croyances que le sport peut favoriser."
+    - "L'individu, par les interactions avec les autres, apprend progressivement à adopter un comportement conforme aux attentes d'autrui."
+Q18:
+  title: "Les interdictions administratives de stade :"
+  options:
+    - "S'accompagnent souvent d'une obligation de pointer à la police ou la gendarmerie."
+    - "Peuvent être prises longtemps après les faits."
+    - "Donnent à voir des excès liberticides."
+    - "Constituent une sanction pénale complémentaire prononcée par un tribunal."
+    - "Ont une durée maximale de 1 an."
+Q19:
+  title: "Quelle(s) réponse(s) est (sont) fausse(s) ?"
+  options:
+    - "Une démarche déductive part d'une situation concrète."
+    - "Une démarche déductive produit, au final, une théorie enracinée."
+    - "Une démarche inductive autorise la reformulation de la question de recherche."
+    - "Une démarche inductive part d'un choix d'un thème de recherche."
+    - "Une démarche inductive utilise les écrits scientifiques existants."
+Q20:
+  title: "S'agissant du sport-santé, quelle(s) proposition(s) est (sont) vraie(s) ?"
+  options:
+    - "La stratégie nationale du sport santé a remplacé le plan national sport santé bien-être en 2020."
+    - "Les enseignants en APA peuvent intervenir auprès de tous les publics."
+    - "La prescription médicale d'une activité physique est possible depuis 2012."
+    - "Nous en sommes aujourd'hui à la cinquième génération du PNNS."
+    - "Le développement et le recours à l'activité physique adaptée à visée thérapeutique fait partie des objectifs de la stratégie nationale du sport santé portée par le ministère de l'agriculture."
+Q21:
+  title: "Boudon prend l'exemple des familles paysannes dans les pays pauvres :"
+  options:
+    - "Le sociologue doit faire preuve de sociocentrisme."
+    - "Le sociologue doit faire attention à ses propres représentations."
+    - "Le sociologue doit s'informer de la situation des acteurs."
+    - "Certaines situations sont effectivement irrationnelles pour les acteurs."
+    - "En tant que sociologue selon Boudon les acteurs n'ont pas toujours « de bonnes raisons d'agir »."
+Q22:
+  title: "En 2010, les activités les plus pratiquées sont :"
+  options:
+    - "La course à pieds, le ski et la musculation."
+    - "Le football, le tennis et l'équitation."
+    - "La course à pieds, la nage et le vélo."
+    - "La marche, la nage et le vélo."
+    - "La marche, la nage et le football."
+Q23:
+  title: "Quelle(s) réponse(s) est (sont) juste(s) ?"
+  options:
+    - "Le questionnaire permet de produire des données chiffrées sur le phénomène étudié et d'en proposer une explication à partir de la mise en relation de ces données."
+    - "Le questionnaire est une méthode journalistique."
+    - "Les questions d'un questionnaire ne sont pas standardisées et sont plutôt fermées."
+    - "Les questions fermées permettent d'obtenir des réponses plus spontanées, plus riches et plus développées."
+    - "Dans un questionnaire il y a autant de questions fermées que de questions ouvertes."
+Q24:
+  title: "La loi Larrivé de 2016 prévoit :"
+  options:
+    - "La possibilité pour les clubs de refuser la vente de billets à n'importe qui."
+    - "La désignation d'un référent supporter dans chaque club professionnel de football."
+    - "La possibilité de dissoudre les groupes de supporters."
+    - "La désignation d'un policier référent dans chaque club professionnel de football."
+    - "La possibilité pour les supporters d'organiser leurs animations des tribunes librement."
+Q25:
+  title: "Une variable indépendante correspond à :"
+  options:
+    - "Une relation particulière observée entre deux phénomène sociaux."
+    - "Quelque chose que l'on cherche à expliquer."
+    - "Le sexe, l'âge, la catégorie professionnelle, etc. des individus."
+    - "Une variable explicative."
+    - "La partie de la population sur laquelle va porter l'enquête."
+Q26:
+  title: "Les travaux sociologiques portant sur la mobilité sociale liée à l'éducation montrent que :"
+  options:
+    - "Les enfants occupent généralement une position sociale supérieure à leurs parents."
+    - "Les positions des parents et des enfants restent homogènes."
+    - "Les parents occupent généralement une position sociale supérieure à leurs enfants."
+    - "L'école promeut un « idéal de la personne cultivée », à partir duquel on classe les élèves."
+    - "L'accès aux titres scolaires, même s'il est plus large, reste inégal."
+Q27:
+  title: "La prévention tertiaire :"
+  options:
+    - "Vise à diminuer la prévalence d'une maladie dans une population."
+    - "Intervient à un stade où il importe de diminuer la prévalence des incapacités chroniques ou des récidives dans une population."
+    - "Réunit l'ensemble des actes visant à diminuer l'incidence d'une maladie dans une population et donc à réduire les risques d'apparition de nouveaux cas."
+    - "Vise à réduire les complications, invalidités ou rechutes consécutives à la maladie."
+    - "Cherche à amoindrir les effets et séquelles d'une pathologie ou de son traitement."
+Q28:
+  title: "La composition des tribunes des stades de football français est :"
+  options:
+    - "Egale entre les hommes et les femmes."
+    - "Hétérogène d'un point de vue social et économique."
+    - "Marquée par une présence plus importante de jeunes hommes adultes."
+    - "Caractérisée par un nombre très faible d'enfants."
+    - "Caractérisée par des supporters Ultras plus nombreux que les spectateurs."
+Q29:
+  title: "Quels sont les effets de l'activité physique sur la santé ?"
+  options:
+    - "Un retardement de la perte d'autonomie de 10 à 15 ans."
+    - "Une augmentation des risques de maladies cardiovasculaires."
+    - "Une amélioration de la qualité de vie des patients atteints de cancer."
+    - "Une diminution du risque de mortalité précoce."
+    - "La disparition totale du diabète de type 2."
+Q30:
+  title: "A propos du dopage, en 1904, un communiqué officiel du Comité international olympique mentionnait :"
+  options:
+    - "« Ce marathon a démontré du point de vue médical que les drogues peuvent être très utiles aux athlètes en cours d'épreuve »."
+    - "« Ce marathon a démontré du point de vue médical que les drogues ne sont pas utiles aux athlètes en cours d'épreuve »."
+    - "« Ce marathon a démontré du point de vue politique et médiatique que les drogues peuvent être très utiles aux athlètes en cours d'épreuve »."
+    - "« Ce marathon a démontré du point de vue scientifique que les drogues peuvent être très utiles aux athlètes en cours d'épreuve »."
+    - "« Ce marathon a démontré du point de vue économique que les drogues peuvent être très utiles aux athlètes en cours d'épreuve »."
