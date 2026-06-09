@@ -1,5 +1,3 @@
-import {getImageUrl} from '../assets/imageMap'
-
 const css = `
   @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap');
 
@@ -348,9 +346,6 @@ export default function ResultsPage({test, results, onBackClick}) {
     /* Couleur de l'anneau selon score */
     const ringColor = pct >= 75 ? '#a8c5b0' : pct >= 50 ? '#c5b8e8' : '#e8a598';
 
-    // Récupère juste le nom de fichier de ton YAML
-    const imageUrl = question.visuel ? getImageUrl(question.visuel) : null;
-
     return (
         <div className="res-page">
             <style>{css}</style>
@@ -418,11 +413,6 @@ export default function ResultsPage({test, results, onBackClick}) {
                                      </span>
                                     <span className="res-q-pill res-q-pill--no-correction">Pas de correction</span>
                                 </div>
-                                {question.visuel && (
-                                    <div className="res-question-visuel">
-                                        <img src={imageUrl} alt="Visuel pour la question"/>
-                                    </div>
-                                )}
                                 <div className="res-no-correction-msg">
                                     ℹ️ Pas de correction pour cette question
                                 </div>
