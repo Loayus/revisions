@@ -37,7 +37,12 @@ export async function getAllTests() {
         {
             sem: '4',
             subject: 'psycho',
-            testNames: ['sem4_psycho_s2_annal_2024_2025', 'sem4_psycho_s1_annal_2024_2025']
+            testNames: ['sem4_psycho_s2_annal_2024_2025']
+        },
+        {
+            sem: '4',
+            subject: 'physiologie',
+            testNames: ['sem4_physiologie_s1_annal_2024_2025']
         },
         {
             sem: '4',

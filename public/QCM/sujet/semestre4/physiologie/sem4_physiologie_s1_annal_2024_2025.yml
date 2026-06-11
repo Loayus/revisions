@@ -1,8 +1,8 @@
 année: "2024-2025"
 semestre: 4
 session: 1
-matière: "Psychologie"
-titre: "Semestre 4 : Session 1 - Psychologie - Annale 2024-2025"
+matière: "Physiologie"
+titre: "Semestre 4 : Session 1 - Physiologie - Annale 2024-2025"
 Q1:
   title: "Les organes suivants sont considérés comme des glandes endocrines"
   options:
@@ -47,7 +47,7 @@ Q5:
     - "Il s’agit d’une malformation qui peut être d’origine congénitale."
     - "Il s’agit d’une malformation qui peut survenir suite à un traumatisme."
     - "Elle peut être associée à un ensemble de symptômes neurologiques tels que des douleurs irradiantes et des engourdissements dans les membres inférieurs."
-  visuel: "sem4_psycho_s1_annal_2024_2025_Q5.png"
+  visuel: "sem4_physiologie_s1_annal_2024_2025_Q5.png"
 
 Q6:
   title: "Concernant les nerfs"
@@ -201,7 +201,7 @@ Q22:
     - "Cette courbe permet notamment de déterminer le rapport de Tiffeneau soit le rapport CV/VEMS."
     - "Une réserve ventilatoire supérieure à 30% signera une limitation ventilatoire à l’exercice."
     - "A l’effort maximal, le rapport VE/VO2 est supérieur à 35."
-  visuel: "sem4_psycho_s1_annal_2024_2025_Q22.png"
+  visuel: "sem4_physiologie_s1_annal_2024_2025_Q22.png"
 
 Q23:
   title: "A propos des événements liés au seuil ventilatoire 1 que l’on qualifiera aussi ici de « seuil anaérobie »"
