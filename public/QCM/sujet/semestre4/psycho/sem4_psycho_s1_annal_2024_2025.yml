@@ -1,0 +1,231 @@
+année: "2024-2025"
+semestre: 4
+session: 1
+matière: "Psychologie"
+titre: "Semestre 4 : Session 1 - Psychologie - Annale 2024-2025"
+Q1:
+  title: "Les organes suivants sont considérés comme des glandes endocrines"
+  options:
+    - "L’hypophyse"
+    - "Les glandes surrénales"
+    - "Les poumons"
+    - "Le cerveau"
+    - "Le pancréas"
+
+Q2:
+  title: "Au sujet de l’action des hormones"
+  options:
+    - "Les hormones hydrosolubles se fixent toujours sur des récepteurs nucléaires."
+    - "Une boucle de rétroaction positive entraîne une augmentation de la sécrétion d’une hormone."
+    - "Une des réponses peut être la synthèse de nouvelles protéines."
+    - "Un effet amplificateur n’est pas observé."
+    - "Un stimulus nerveux peut déclencher la libération des hormones."
+
+Q3:
+  title: "Au sujet de l’hypophyse et de l’hypothalamus"
+  options:
+    - "L’Hypophyse est composée de cellules endocrines."
+    - "L’hypothalamus est constitué de deux lobes qui contiennent chacun des cellules endocrines."
+    - "L’hypophyse libère des hormones en réponse à un stimulus provenant de l’hypothalamus."
+    - "L’hormone de croissance est libérée par le lobe antérieur de l’hypophyse."
+    - "Le pic de production de l’hormone de croissance se situe juste avant le coucher."
+
+Q4:
+  title: "Au cours de l’exercice prolongé d’intensité modérée (ex : 1h à 50% de la VMA)"
+  options:
+    - "La sécrétion de cortisol diminue."
+    - "La sécrétion d’aldostérone augmente."
+    - "La sécrétion d’hormone de croissance augmente."
+    - "La sécrétion de l’aldostérone est indépendante du niveau d’hydratation."
+    - "La sécrétion de l’hormone antidiurétique diminue au cours de l’exercice."
+
+Q5:
+  title: "Concernant l’image ci-contre"
+  options:
+    - "On y voit un spondylolisthésis."
+    - "On y voit le décalage d’une vertèbre cervicale en décalage par rapport aux vertèbres sous-jacentes."
+    - "Il s’agit d’une malformation qui peut être d’origine congénitale."
+    - "Il s’agit d’une malformation qui peut survenir suite à un traumatisme."
+    - "Elle peut être associée à un ensemble de symptômes neurologiques tels que des douleurs irradiantes et des engourdissements dans les membres inférieurs."
+  visuel: "sem4_psycho_s1_annal_2024_2025_Q5.png"
+
+Q6:
+  title: "Concernant les nerfs"
+  options:
+    - "Le nerf optique envoie des messages moteurs du cortex moteur jusqu’aux muscles oculomoteurs."
+    - "Le nerf vestibulo-cochléaire est strictement sensitif."
+    - "Le nerf abducens et le nerf accessoire sont des nerfs impliqués dans la transmission des informations gustatives."
+    - "Dans le plexus brachial, la division antérieure (ou branche antérieure) innerve notamment le muscle grand dorsal."
+    - "Dans le plexus brachial, la division postérieure innerve notamment le muscle triceps brachial."
+
+Q7:
+  title: "Concernant les voies de transmission"
+  options:
+    - "Le cordon dorsal est composé de neurofibres ascendantes."
+    - "Le tractus spinocérébelleux est composé de trois neurones : le neurone de 1er ordre, le neurone de 2e ordre, le neurone de 3e ordre."
+    - "Toutes les informations ascendantes passent par le thalamus."
+    - "La voie extra-pyramidale désigne une voie descendante, c’est-à-dire qu’elle transmet des informations en provenance du système nerveux central vers la périphérie."
+    - "Les nerfs spinaux sont composés de neurofibres afférentes et de neurofibres efférentes, tandis que les racines sont strictement motrices ou strictement sensitives."
+
+Q8:
+  title: "Concernant les informations douloureuses"
+  options:
+    - "Elles peuvent être captées par des récepteurs nociceptifs, qui peuvent être sensibles aux stimuli thermiques, mécaniques ou chimiques."
+    - "Elles sont transmises principalement par le tractus spinothalamique."
+    - "Le neurone du 3e ordre transmet l’information vers le cortex somatosensoriel, où elle sera intégrée."
+    - "L’activité synaptique est associée à la libération de la substance P et du glutamate."
+    - "L’activité synaptique peut être modulée par des voies descendantes inhibitrices de la douleur, impliquant des neuromédiateurs tels que les opioïdes endogènes."
+
+Q9:
+  title: "Concernant le système nerveux autonome"
+  options:
+    - "L’hypothalamus est le principal centre d’intégration des arcs réflexes."
+    - "Le système nerveux sympathique est associé à la régulation des activités de repos et de digestion."
+    - "La moelle épinière est le principal centre d’intégration des réflexes entériques."
+    - "L’acétylcholine est le principal neurotransmetteur impliqué dans les activités parasympathique."
+    - "En se fixant sur les récepteurs muscariniques, la noradrénaline permet l’augmentation de la pression artérielle."
+
+Q10:
+  title: "Concernant la régulation de l’activité cardiaque"
+  options:
+    - "L’activité du système nerveux sympathique est associée à un effet inotrope et chronotrope positif."
+    - "La prise de bétabloquants entraine un effet inotrope et chronotrope négatif."
+    - "Au repos, l’activité cardiaque est associée à un contrôle parasympathique dominant."
+    - "Le nerf impliqué dans la régulation parasympathique est un nerf crânien."
+    - "Le nerf impliqué dans la régulation parasympathique est le nerf vague."
+
+Q11:
+  title: "Concernant les réflexes"
+  options:
+    - "Le reflexe pilomoteur est associé à la contraction des pupilles en réponse à la stimulation des photorécepteurs."
+    - "Le réflexe sudoral peut être déclenché en réponse à la stimulation de chimiorécepteurs."
+    - "Le réflexe péristaltique décrit la contraction des muscles lisses de l’intestin en réponses à l’ingestion d’aliments."
+    - "Les réflexes autonomes résultent de l’intégration d’afférences complexes dans le cortex, impliquant notamment le lobe frontal et le système limbique."
+    - "Le reflexe pilomoteur est un réflexe sympathique."
+
+Q12:
+  title: "A propos des évaluations musculaires chez des patients déconditionnés"
+  options:
+    - "Le test de « Killy » évalue essentiellement les capacités fonctionnelles."
+    - "Le Test « up and go » évalue uniquement l’équilibre."
+    - "Le test « P.I.L.E » est réalisé sur cycloergomètre et consiste à développer un maximum de puissance pendant 20 secondes."
+    - "A propos du test « up and go », un test supérieur à 30 secondes est considéré comme une mauvaise performance."
+    - "Le dynamomètre Jamar est l'instrument de mesure utilisé pour mesurer la force de préhension."
+
+Q13:
+  title: "A propos du test de Sorensen"
+  options:
+    - "Le test s’effectue en décubitus dorsal."
+    - "Le test évalue spécifiquement les capacités musculaires des membres supérieurs."
+    - "Chez les hommes, un test de 4 minutes est considéré comme une bonne performance."
+    - "Le test évalue spécifiquement les capacités musculaires des membres inférieurs."
+    - "Chez les femmes, un test inférieur à 110 secondes est considéré comme une mauvaise performance."
+
+Q14:
+  title: "A propos du Test « up and go »"
+  options:
+    - "Un test inférieur à 10 secondes est considéré comme une mauvaise performance."
+    - "Ce test évalue uniquement l’équilibre."
+    - "Il se compose de dix étapes."
+    - "Une chaise est nécessaire pour la réalisation de ce test."
+    - "Le patient doit marcher 12 mètres."
+
+Q15:
+  title: "A propos des évaluations isocinétiques"
+  options:
+    - "Elles permettent d’évaluer les performances musculaires des patients."
+    - "Elles permettent d'enregistrer l'activité électrique des nerfs et muscles."
+    - "Elles permettent d’enregistrer une consommation maximale d’oxygène."
+    - "Elles permettent d’enregistrer un moment de force maximal."
+    - "Elles permettent de détecter des problèmes neurologiques."
+
+Q16:
+  title: "A propos de la glycolyse et de la conversion pyruvate-lactate"
+  options:
+    - "L’activité de la PFK sera influencée par le ratio ATP/ADP."
+    - "Des concentrations élevées en ATP vont stimuler l’activité de l’hexokinase."
+    - "Des concentrations faibles en ATP vont inhiber l’activité de la pyruvate kinase."
+    - "L’activité de la LDH sera maximale dès 65% de VO2max."
+    - "Lors de la phase dite d’activation du glucide de la glycolyse, certaines réactions sont consommatrices d’ATP."
+
+Q17:
+  title: "A propos de la puissance mécanique"
+  options:
+    - "Elle correspond au produit du Travail par le temps (P = Travail x Temps)."
+    - "Elle peut s’écrire Puissance = Force x Distance / Temps."
+    - "Elle peut s’écrire Puissance = Force x Vitesse si la force est exprimée en Newton et la vitesse est exprimée en Km/h."
+    - "Son unité est le W ou les J/sec lorsqu’elle est exprimée en valeur absolue."
+    - "Lors d’un test de force-vitesse réalisé sur ergocycle de type Monark, elle est définie par le produit de la charge (Kg) s’appliquant sur la roue d’inertie par la cadence de pédalage (rpm) atteinte."
+
+Q18:
+  title: "Pour évaluer la puissance maximale d’un individu"
+  options:
+    - "L’intensité d’exercice doit être maximal."
+    - "Les conditions de force est de vitesse doivent être toutes deux maximales."
+    - "Lors d’un test de force-vitesse, on utilisera une résistance correspondant à 10% de la masse corporelle chez le sujet entraîné."
+    - "Il faut limiter la contribution anaérobie lactique dans le test choisi."
+    - "La puissance mécanique moyenne développée sur un test force-vitesse constituera un paramètre d’intérêt."
+
+Q19:
+  title: "A propos de la production de lactate et de la performance"
+  options:
+    - "Les coureurs de 400-800m de haut niveau atteignent des lactatémies d’environ 12-15mmol."
+    - "Les coureurs de 10 000m de haut niveau atteignent des lactatémies d’environ 20mmol."
+    - "Le niveau de performance sur 400-800m est très bien corrélé à la lactatémie : la relation est négative."
+    - "Chez le sujet non entraîné, une récupération active à environ 50% de VO2max accélèrera la clairance du lactate."
+    - "Une course en descente réalisée à la même vitesse que sur terrain plat induira une production de lactate plus faible."
+
+Q20:
+  title: "A propos des relations entre force, vitesse et puissance"
+  options:
+    - "Pour un exercice poly-articulaire, la relation force=f(vitesse) à un aspect curviligne."
+    - "Dans la relation force=f(vitesse), F0 correspond au niveau de force requis pour générer le niveau de puissance mécanique maximal."
+    - "Un entraînement visant au développement de la puissance axé sur une amélioration de la composante force entraînera une diminution de la pente de la relation force=f(vitesse)."
+    - "Pour réduire le risque de chute chez le sujet âgé, il faut privilégier un développement de la puissance axé sur une amélioration de la composante force."
+    - "Quel que soit la typologie musculaire, la surface de section d’une fibre est très corrélée à la force isométrique qu’elle peut développer."
+
+Q21:
+  title: "A propos de l’épreuve d’effort (EFX)"
+  options:
+    - "Une EFX sur tapis sera interprétable si le VO2 mesuré en mL/Kg/min correspond environ à 3,5 x la vitesse de course (Km/h)."
+    - "Une EFX sur ergocycle sera interprétable si l’augmentation de VO2 mesurée correspond environ à 10-13 mL d’O2/W développé supplémentaire."
+    - "Dans le cadre d’une évaluation clinique, le VO2max obtenu peut constituer un facteur prédictif de morbidité/mortalité."
+    - "Dans le cadre d’une évaluation clinique, le VO2max obtenu peut permettre d’estimer les capacités fonctionnelles d’un sujet en termes d’activités de la vie courante."
+    - "Dans le cadre d’une évaluation de la condition physique, le VO2max obtenu peut permettre d’évaluer le rendement mécanique du sportif."
+
+Q22:
+  title: "A propos de la ventilation à l’exercice et de la figure ci-dessous"
+  options:
+    - "En cas de syndrome obstructif, on observera une diminution du volume maximal sur cette courbe."
+    - "En cas de syndrome restrictif, on observera une diminution du débit maximal sur cette courbe."
+    - "Cette courbe permet notamment de déterminer le rapport de Tiffeneau soit le rapport CV/VEMS."
+    - "Une réserve ventilatoire supérieure à 30% signera une limitation ventilatoire à l’exercice."
+    - "A l’effort maximal, le rapport VE/VO2 est supérieur à 35."
+  visuel: "sem4_psycho_s1_annal_2024_2025_Q22.png"
+
+Q23:
+  title: "A propos des événements liés au seuil ventilatoire 1 que l’on qualifiera aussi ici de « seuil anaérobie »"
+  options:
+    - "L’apparition du seuil anaérobie signe une insuffisance du métabolisme aérobie dans la fourniture énergétique."
+    - "La méthode de Wasserman est une méthode de détermination du seuil ventilatoire reposant sur l’étude la relation VCO2=f(VO2)."
+    - "La détermination du seuil anaérobie via la mesure de la lactatémie est fixée arbitrairement à 4 mmol/L."
+    - "Aux intensités supérieures au seuil anaérobie et inférieure à VO2max, la production accrue de lactate est liée à l’équilibre existant au niveau du couple Pyruvate-Lactate."
+    - "Aux intensités supérieures au seuil anaérobie, la production de CO2 a à la fois une origine mitochondriale et aussi non mitochondriale."
+
+Q24:
+  title: "A propos des alternatives à l’épreuve d’effort maximal"
+  options:
+    - "Pour un homme, le test d’Astrand nécessite de réaliser un effort de 4 à 6 min à 1,5W/Kg de masse corporelle."
+    - "Le test PWC 170 permet d’estimer la puissance maximale aérobie grâce à la relation FC-puissance."
+    - "Le test de Sjostrand est un test comportant 3 paliers d’exercice de 3 minutes."
+    - "Le coût énergétique du pédalage est d’environ 3,5 mL/min d’O2/W."
+    - "Le test d’Astrand est soit un exercice de pédalage soit un exercice de « STEP TEST »."
+
+Q25:
+  title: "A propos des déterminants cardiocirculatoires et des échanges gazeux au cours de l’épreuve d’effort maximale"
+  options:
+    - "La baisse de VO2max avec l’âge est d’environ 5% par décennie et est notamment liée à une diminution de la fréquence cardiaque maximale atteignable."
+    - "En cas d’adaptation normale à l’effort, la valeur du pouls d’oxygène va augmenter jusqu’à l’approche de VO2max."
+    - "En cas d’adaptation normale à l’effort, la valeur de pression artérielle diastolique doit dépasser 115mmHg à l’approche de VO2max."
+    - "En cas d’adaptation normale à l’effort, la valeur du ratio des échanges respiratoires (RER) doit rester inférieure à 1."
+    - "En cas d’adaptation normale à l’effort, la fraction expirée en oxygène (FEO2 %) va diminuer au-delà du seuil ventilatoire."
