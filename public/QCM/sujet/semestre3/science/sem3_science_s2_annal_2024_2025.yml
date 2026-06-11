@@ -1,0 +1,410 @@
+année: "2024-2025"
+semestre: 3
+session: 2
+matière: "Science"
+titre: "Semestre 3 : Session 2 - Science - Annale 2024-2025"
+
+Q1:
+  title: "Lorsque vous effectuez un exercice d’endurance (>1h) quelles voie(s) métabolique(s) d’énergie allez-vous utiliser majoritairement :"
+  options:
+    - "La filière anaérobie alactique"
+    - "Le lactate produit par la filière aérobie"
+    - "Le glycogène lorsqu’il est oxydé dans la mitochondrie"
+    - "Les lipides"
+    - "Toutes les réactions produisant de l’énergie sans consommation d’oxygène"
+
+Q2:
+  title: "A propos de la resynthèse d’énergie :"
+  options:
+    - "Elle permet de reconstituer les stocks d’ATP"
+    - "L’énergie utilisée pour la synthèse de l’ATP provient de la dégradation des aliments"
+    - "Les réactions réalisées en absence d’oxygène sont appelées réactions aérobies"
+    - "Lorsqu’il y a une production de lactate, cela signifie qu’on utilise la filière anaérobie alactique"
+    - "Lors d’un effort maximal, au-delà de 3 minutes, c’est majoritairement la filière aérobie qui permet de resynthétiser de l’ATP"
+
+Q3:
+  title: "Au sujet de la cascade de l’oxygène :"
+  options:
+    - "Elle représente le parcours de l’oxygène de l’environnement jusqu’à la mitochondrie"
+    - "L’oxygène passe des poumons au système sanguin grâce au gradient alvéolo-capillaire"
+    - "Le cœur est considéré comme un système de convection"
+    - "La mitochondrie est considérée comme étant productrice d’oxygène"
+    - "Le CO2 rejeté lors de l’exercice est produit des poumons"
+
+Q4:
+  title: "Entre le repos et l’exercice maximal chez un athlète de haut niveau en endurance :"
+  options:
+    - "La consommation d’oxygène est multipliée par 10 ou plus"
+    - "Le débit cardiaque est doublé"
+    - "Le volume d’éjection systolique est multiplié par un facteur 4"
+    - "Le contenu artériel en oxygène reste identique"
+    - "Le contenu artériel en oxygène diminue pour atteindre 0 mmHg à la sortie des muscles"
+
+Q5:
+  title: "A propos de l’équation de Fick, quelles sont les équations correctes"
+  options:
+    - "VO2 = (Fc × VES) × (CaO2 − CvO2)"
+    - "VO2 = (Qc × VES) × (CaO2 − CvO2)"
+    - "VO2 = Qc × DavO2"
+    - "VO2 = (Fc × VES) × (CvO2 − CaO2)"
+    - "VO2 = (Fc × VES) × DavO2"
+
+Q6:
+  title: "L’augmentation du débit cardiaque observé lors de l’exercice s’accompagne d’une augmentation du retour veineux qui s’explique par :"
+  options:
+    - "L’attraction terrestre"
+    - "L’activité musculaire qui agit comme une pompe en favorisant le retour du sang vers le cœur"
+    - "L’augmentation de la température corporelle"
+    - "La respiration qui fait varier les pressions dans les cavités abdominale et thoracique"
+    - "Les résistances périphériques"
+
+Q7:
+  title: "La capacité de transport de l’oxygène :"
+  options:
+    - "Dépend uniquement de la concentration sanguine en hémoglobine"
+    - "Augmente lorsque la saturation de l’hémoglobine en oxygène augmente"
+    - "Est influencée par la pression alvéolaire en oxygène"
+    - "Augmente lors de l’arrêt de l’entraînement"
+    - "Est diminuée en cas d’anémie"
+
+Q8:
+  title: "Concernant les déterminants du VO2max :"
+  options:
+    - "L’augmentation du nombre de capillaires permet son augmentation"
+    - "Le diamètre des fibres n’est pas un paramètre important"
+    - "La typologie musculaire n’a aucune importance"
+    - "L’antilope a un VO2max supérieur à celui d’un lévrier"
+    - "Avec le VO2max d’une chèvre, un homme aurait une vitesse maximale aérobie supérieure à 13 km/h"
+
+Q9:
+  title: "Vous êtes un athlète ayant une VMA de 20 km/h, votre fréquence cardiaque de repos est de 50 battements par minute et votre fréquence cardiaque maximale est de 200 battements par minute. Vous effectuez un effort à 10 km/h, après 15 minutes vous pourriez observer les valeurs suivantes :"
+  options:
+    - "Une fréquence cardiaque d’environ 120-130 battements par minutes"
+    - "Une consommation d’oxygène d’environ 70% de votre VO2max"
+    - "Votre fréquence cardiaque va dériver lentement pendant l’effort"
+    - "Un volume d’éjection systolique de 300mL"
+    - "Un débit cardiaque de 6L/min"
+
+Q10:
+  title: "Lors d’un exercice incrémental :"
+  options:
+    - "Une hyperventilation est observée avant le premier seuil ventilatoire"
+    - "La fréquence ventilatoire augmente principalement avant le premier seuil ventilatoire"
+    - "Le volume courant atteint un plateau avant le premier seuil ventilatoire"
+    - "La fraction expirée en CO2 augmente jusqu’au premier seuil ventilatoire puis diminue ensuite jusqu’à l’exercice maximum"
+    - "La fraction expirée en oxygène diminue jusqu’au premier seuil ventilatoire puis augmente ensuite jusqu’à l’exercice maximum"
+
+Q11:
+  title: "A propos du muscle squelettique :"
+  options:
+    - "Un faisceau musculaire est entouré d’endomysium"
+    - "Une fibre musculaire est entourée d’épimysium"
+    - "Le muscle est entouré de périmysium"
+    - "Un muscle contient des vaisseaux sanguins"
+    - "Il s’attache aux os par les tendons"
+
+Q12:
+  title: "Le sarcomère :"
+  options:
+    - "Est la plus petite unité contractile"
+    - "Est délimité par deux disques M"
+    - "Contient une bande A en son milieu"
+    - "Contient des bandes I sur ses extrémités"
+    - "Contient une zone H, située dans les bandes I"
+
+Q13:
+  title: "Lors d’une contraction musculaire :"
+  options:
+    - "L’axone terminal du neurone moteur libère de l’acétylcholine"
+    - "Le potentiel de plaque se propage à l’intérieur des tubules T"
+    - "L’activation du récepteur à la ryanodine permet de libérer du potassium"
+    - "Le potassium est libéré par la gaine de myéline"
+    - "Le potassium se fixe sur la troponine C"
+
+Q14:
+  title: "Le rôle du calcium :"
+  options:
+    - "Il s’agit d’une molécule nécessaire pour la contraction"
+    - "Sa concentration diminue lors de la contraction"
+    - "Il est stocké dans le tubule T"
+    - "Il se lie à la tête de myosine"
+    - "Il permet de libérer le site de liaison sur le filament d’actine"
+
+Q15:
+  title: "La production de force musculaire"
+  options:
+    - "Est la plus importante lorsque la longueur du muscle est maximale"
+    - "Dépend de la fréquence de stimulation du nerf moteur"
+    - "Est identique quel que soit l’angle de l’articulation"
+    - "Est importante lorsque la vitesse du mouvement est rapide"
+    - "Est importante lorsque la vitesse du mouvement est lente"
+
+Q16:
+  title: "Quels facteurs influencent la relation force-longueur ?"
+  options:
+    - "L’augmentation du niveau d’activation augmente la force produite"
+    - "La capacité à produire de la force augmente lorsque le muscle s’allonge tout en étant contracté"
+    - "La capacité à produire de la force augmente lorsque le muscle se raccourci tout en étant contracté"
+    - "Plus l’angle d’obliquité est proche de 90°, plus la force produite sera importante"
+    - "Un petit bras de levier favorise la capacité à produire de la force"
+
+Q17:
+  title: "A partir de la figure ci-dessous, identifiez les bonnes affirmations :"
+  options:
+    - "Le graphique A représente des secousses isolées qui ne permettent pas au muscle de se relâcher totalement"
+    - "Le graphique B met en évidence que la sommation de deux stimulations rapprochées permet d’augmenter la force musculaire produite"
+    - "Le graphique C représente un tétanos complet"
+    - "Le graphique D représente un tétanos incomplet"
+    - "Une seule condition permet d’aboutir à un tétanos complet (tension maximale du muscle)"
+
+Q18:
+  title: "Un muscle lent ou oxydatif a les caractéristiques suivantes :"
+  options:
+    - "Sa couleur est pâle"
+    - "La vitesse de développement de la tension maximale est la plus rapide parmi les différents types de fibres"
+    - "Le diamètre des fibres est intermédiaire"
+    - "Le muscle est résistant à la fatigue"
+    - "Il comporte peu de mitochondries"
+
+Q19:
+  title: "A propos du muscle tibial antérieur :"
+  options:
+    - "Il est situé dans la loge latérale de la jambe."
+    - "Il est responsable de la flexion plantaire."
+    - "Il s'insère sur la base du deuxième métatarsien."
+    - "Il est innervé par le nerf fibulaire profond."
+    - "Il participe à l'inversion du pied, mais n’est pas un inverseur."
+
+Q20:
+  title: "A propos du muscle quadriceps :"
+  options:
+    - "Il comprend le muscle triangulaire de la cuisse."
+    - "Il est principalement extenseur du genou."
+    - "Ses chefs se rejoignent pour former le tendon quadricipital."
+    - "Le vaste médial s'insère sur la lèvre latérale de la ligne âpre."
+    - "Il est innervé par le nerf tibial."
+
+Q21:
+  title: "A propos des muscles de la région glutéale :"
+  options:
+    - "Ils incluent le grand, moyen et petit fessier."
+    - "Ils ne participent pas à la stabilisation de la hanche."
+    - "Le tenseur du fascia lata ne fait pas partie de cette région."
+    - "Ils sont en partie innervés par le nerf glutéal inférieur."
+    - "Ils contribuent à l’abduction de la hanche."
+
+Q22:
+  title: "A propos des ménisques :"
+  options:
+    - "Ils diminuent la congruence articulaire du genou."
+    - "Le ménisque médial est en forme de C."
+    - "Le ménisque latéral est en forme de O."
+    - "Ils répartissent les forces et contraintes sur le genou."
+    - "Ils sont constitués de tissu osseux."
+
+Q23:
+  title: "A propos de l'articulation du genou :"
+  options:
+    - "C'est une articulation en intermédiaire du membre inférieur."
+    - "Elle inclut le fémur, le tibia et la patella."
+    - "Elle possède deux compartiments distincts."
+    - "Les surfaces articulaires ne sont pas encastrées."
+    - "Elle est stabilisée par les muscles périarticulaires (comme le long fibulaire) et les ligaments collatéraux du genou (comme le ligament collatéral médial du genou)."
+
+Q24:
+  title: "A propos du talus :"
+  options:
+    - "Il s'articule avec le tibia exclusivement."
+    - "Il est situé dans l'arrière-pied."
+    - "Il supporte tout le poids du corps en appui unipodal."
+    - "Il s'articule avec la partie antérieure du naviculaire."
+    - "Il est relié aux métacarpes."
+
+Q25:
+  title: "A propos du tibia :"
+  options:
+    - "Il est le principal os porteur du segment jambier."
+    - "La crête tibiale est située sur la face latérale du tibia."
+    - "La patte d'oie est une zone d'insertion située sur la partie haute de la face médiale du tibia."
+    - "La tubérosité tibiale antérieure sert d'insertion au ligament croisé antérieur."
+    - "La malléole latérale de la fibula fait partie de l'articulation du genou."
+
+Q26:
+  title: "A propos du grand trochanter :"
+  options:
+    - "Il sert de point d'insertion pour le muscle moyen fessier."
+    - "Il se situe sur l'extrémité proximale du fémur."
+    - "Les muscles pelvi-trochantériens s'insèrent sur le grand trochanter."
+    - "Il n’est pas recouvert de cartilage puisqu’il est extra-articulaire."
+    - "Il ne sert pas de point d'insertion au muscle psoas."
+
+Q27:
+  title: "A propos du fémur :"
+  options:
+    - "Il est l'os le plus long du corps humain."
+    - "Il s'articule avec la patella par son extrémité distale."
+    - "Son angle cervico-diaphysaire est d'environ 100°."
+    - "Il présente un grand trochanter où s’insère notamment le piriforme."
+    - "Le col fémoral relie la tête à la diaphyse."
+
+Q28:
+  title: "A propos des vitesses et des accélérations"
+  options:
+    - "La vitesse moyenne correspond au taux de changement de la position et est égale au rapport entre la distance parcourue et le temps mis pour la parcourir. Elle se mesure en s/m."
+    - "La vitesse moyenne sur un intervalle de temps [t1 t2] est la pente de la sécante joignant les positions x(t1) et x(t2)."
+    - "La vitesse instantanée correspond à la droite sécante à la courbe (position en fonction du temps) à un instant précis."
+    - "Un radar tronçon permet de mesurer la vitesse instantanée alors qu’un radar « classique » permet de mesurer la vitesse moyenne."
+    - "L’accélération moyenne représente le taux de changement de la vitesse et se mesure en m.s-2."
+
+Q29:
+  title: "A propos de l’analyse cinématique"
+  options:
+    - "L’analyse cinématique permet de décrire les mouvements du corps ou de ses segments qui se produisent à des instants donnés et à des endroits déterminés de l’espace."
+    - "La vitesse horizontale d’un objet lancé selon une trajectoire parabolique se calcule en tenant compte de la vitesse initiale de l’objet et du sinus de l’angle au moment du lancé."
+    - "L’intérêt de l’analyse cinématique est de décrire les mouvements en termes de trajectoires, vitesses et accélérations."
+    - "La vitesse initiale d’un objet lancé selon une trajectoire parabolique a une influence sur la hauteur de la trajectoire."
+    - "La trajectoire d’un point est l’ensemble des positions successives du point pendant son mouvement."
+
+Q30:
+  title: "A propos des forces"
+  options:
+    - "La force est toute cause ou action susceptible de modifier le mouvement d’un corps ou de le déformer."
+    - "La force est un facteur qui tend à modifier l’état d’inertie du corps."
+    - "La force se calcule en N.m-1."
+    - "Le poids du corps humain est une force qui a pour point d’application le centre de gravité du corps. Cette force est verticale, dirigée vers le haut et se mesure par la formule suivante : P = mg."
+    - "Il existe des forces internes et des forces externes au sein du corps humain."
+
+Q31:
+  title: "A propos des lois de Newton"
+  options:
+    - "Un corps soumis à une force résultante non nulle subit une accélération indirectement proportionnelle à la force résultante qui lui est appliquée et orientée dans le même sens."
+    - "Dans le cadre de la relation fondamentale de la dynamique et dans des conditions statiques ou d’équilibre, la somme des forces est égale à zéro."
+    - "Le principe d’action-réaction correspond à la 3ème loi de Newton."
+    - "Tout corps A exerçant une force sur un corps B subit une force d’égale intensité, de même direction mais de sens opposé, exercée par le corps A."
+    - "La relation fondamentale de la dynamique correspond à la 2ème loi de Newton."
+
+Q32:
+  title: "A propos des leviers"
+  options:
+    - "Dans un levier inter-appui, le point d’appui se trouve entre le point d’application de l’effort musculaire et le point d’application de la résistance."
+    - "Le levier inter-résistant favorise la vitesse."
+    - "Le levier inter-résistant possède un avantage cinématique par rapport au levier inter-moteur."
+    - "Le levier inter-appui favorise l’équilibre."
+    - "Dans un levier inter-résistant, le point d’application de l’effort musculaire se trouve entre le point d’appui et le point d’application de la résistance."
+
+Q33:
+  title: "A propos de l’analyse dynamique"
+  options:
+    - "L’analyse dynamique s’intéresse aux efforts (force et moment) mis en jeu dans le mouvement."
+    - "L’analyse dynamique permet de rechercher les causes ou les raisons du mouvement permettant de le produire ou de le modifier."
+    - "La force exercée sur une plateforme de force est proportionnelle à la déformation des capteurs."
+    - "La plateforme de force permet de mesurer les vitesses et les accélérations."
+    - "La plateforme de force permet de mesurer les centres de pression, les forces et les moments de force."
+
+Q34:
+  title: "A propos de l’énergie"
+  options:
+    - "L’énergie mécanique totale est égale à la somme de l’énergie potentielle de pesanteur et de l’énergie potentielle élastique."
+    - "Lors d’un saut en gymnastique, le tremplin emmagasine l’énergie cinétique du gymnaste sous forme d’énergie élastique qu’il restitue au gymnaste."
+    - "En tir à l’arc, quand la corde est relâchée, l’énergie de déformation de l’arc (élastique) est utilisée pour donner une énergie cinétique à la flèche."
+    - "L’énergie potentielle élastique est l’énergie qu’un corps possède suite à l’élévation de son centre de gravité au-dessus de la surface du sol."
+    - "Plus un corps élève son centre de gravité, moins il emmagasine de l’énergie potentielle élastique."
+
+Q35:
+  title: "A propos du squat jump"
+  options:
+    - "Lors de la phase t0 du squat jump, le sujet est immobile. La valeur du poids de l’individu est donc égale à la valeur de la force de réaction du sol sur ses pieds."
+    - "Lors de la phase d’extension, l’accélération du centre de gravité de l’individu est positive et orientées vers le bas."
+    - "Lors de la phase aérienne, l’altitude maximale du saut sera d’autant plus grande que la vitesse au moment où les orteils quittent le sol est élevée."
+    - "Lors de la phase d’extension afin que le sujet s’élève, la valeur de la force de réaction du sol sur les pieds de l’individu doit être supérieure à celle du poids."
+    - "Lors de la phase t0 du squat jump, lorsque le sujet est immobile, la somme des forces appliquées sur le sujet est égale à 0 car l’accélération du centre de gravité est nulle."
+
+Q36:
+  title: "A propos d’un salto avant"
+  options:
+    - "L’angle parcouru par un gymnaste lors d’un salto avant correspond à 2π radians."
+    - "Lors d’un salto réalisé sur un tremplin et avec un déplacement vers l’avant, l’individu développe de l’énergie cinétique de rotation, de l’énergie potentielle élastique et de l’énergie potentielle de pesanteur."
+    - "L’énergie cinétique se mesure en joules. L’énergie cinétique de rotation est égale à ½.m.v2 et l’énergie cinétique de translation est égale à ½.I.ω2."
+    - "Le moment d’inertie qui correspond à la masse multipliée par le rayon de giration élevé au carré, augmente si le gymnaste réalise un salto corps carpé par rapport à un salto corps groupé."
+    - "Lors d’un salto avant, la vitesse angulaire correspond à la variation de l’angle parcouru par le gymnaste divisé par le temps en radian/seconde."
+
+Q37:
+  title: "A propos des fonctions du système nerveux"
+  options:
+    - "Le système nerveux central intègre les informations sensorielles"
+    - "Le système nerveux périphérique élabore et coordonne des actions motrices"
+    - "Le système nerveux périphérique est composé de l’encéphale et de la moelle épinière"
+    - "Le système nerveux périphérique peut transmettre des informations sensorielles ou afférentes au système nerveux central"
+    - "Le système nerveux central agit pour transmettre des signaux sensoriels ou afférents au système nerveux périphérique"
+
+Q38:
+  title: "A propos des cellules gliales"
+  options:
+    - "Elles agissent pour soutenir, protéger, fournir les nutriments au tissu nerveux"
+    - "Les oligodendrocytes sont des cellules gliales"
+    - "Leurs axones et leurs dendrites forment la matière blanche dans le système nerveux central"
+    - "Elles forment un tissu conjonctif protégeant l’encéphale"
+    - "Les neurones sont des cellules gliales"
+
+Q39:
+  title: "A propos du potentiel de repos"
+  options:
+    - "Il dépend en partie de l’activité des pompes sodiques/potassiques, qui sont des pompes dites actives car elles consomment de l’ATP pour fonctionner"
+    - "Il est en partie associé aux flux d’ions par l’intermédiaire de canaux"
+    - "Il dépend de la distribution inégale des ions de part et d’autre de la membrane cellulaire"
+    - "Sa valeur est négative en condition normale"
+    - "Il sert de base pour la génération des potentiels postsynaptiques excitateurs et inhibiteurs"
+
+Q40:
+  title: "Concernant les potentiels gradués :"
+  options:
+    - "L’intensité du stimulus détermine l’amplitude du potentiel gradué"
+    - "Ils se propagent le long des axones."
+    - "La formation d’un potentiel gradué aboutit irrémédiablement à la formation d’un potentiel d’action"
+    - "Le potentiel gradué peut être associé à une dépolarisation ou une hyperpolarisation de la membrane des neurones"
+    - "La naissance d’un potentiel gradué est régie par des échanges d’ions entre l’intérieur et l’extérieur d’un neurone"
+
+Q41:
+  title: "A propos de l’acétylcholine"
+  options:
+    - "La nicotine inhibe son activité dans le SNC"
+    - "Les curares inhibent son activité le SNP"
+    - "L’acétylcholine est un neurotransmetteur excitateur pour l’activité musculaire (contraction musculaire)"
+    - "L’acétylcholine est un neurotransmetteur excitateur dans les zones corticales impliquées dans l’attention"
+    - "L’acétylcholine est un neurotransmetteur excitateur dans les zones corticales impliquées dans la mémorisation"
+
+Q42:
+  title: "Concernant l’hyperpolarisation et la dépolarisation"
+  options:
+    - "Au repos, la sortie d’ions potassium occasionne une dépolarisation de la membrane"
+    - "L’entrée d’ions sodium occasionne une dépolarisation de la membrane"
+    - "L’hyperpolarisation et la dépolarisation désignent les mêmes phénomènes"
+    - "La propagation d’un influx nerveux est associée à la dépolarisation de la membrane des neurones"
+    - "La dépolarisation désigne la sortie d’ions chargés positivement de la cellule"
+
+Q43:
+  title: "A propos de l’encéphale"
+  options:
+    - "Le cervelet est principalement impliqué dans les fonctions cognitives supérieures et dans la régulation de la perception de la douleur"
+    - "L’aire prémotrice est principalement impliquée dans l’analyse sensorielle"
+    - "La dopamine est essentielle pour réguler le mouvement, elle est libérée notamment par la substance noire (substantia nigra)"
+    - "La matière noire est composée d’axones de neurones"
+    - "La matière grise est composée d’axones de neurones"
+
+Q44:
+  title: "A propos du cortex cérébral"
+  options:
+    - "L’homoncule sensitif représente la projection des différentes parties de l’organisme dans le gyrus précentral"
+    - "L’homoncule moteur représente la projection des différentes parties de l’organisme dans le gyrus postcentral"
+    - "L’ aire de Wernicke est impliquée dans le contrôle du déplacement des yeux"
+    - "Les aires visuelles primaires et associatives sont situées dans le lobe frontal"
+    - "Il est principalement composé de matière grise"
+
+Q45:
+  title: "A propos de l’intégration des informations"
+  options:
+    - "Les afférences sont d’abord traitées dans les noyaux du thalamus, avant d’être envoyés dans les zones du cortex spécifiques."
+    - "Le « Stroop test » (test des couleurs, vu en CM) consiste à choisir une réponse adaptée malgré l’existence d’un conflit cognitif, associé à des informations contradictoires"
+    - "Le système limbique est une zone d’association multimodale associée aux émotions"
+    - "Le pont du tronc cérébral est composé de substance grise"
+    - "Le gyrus précentral est le lieu d’intégration multimodale des informations afférentes complexes"

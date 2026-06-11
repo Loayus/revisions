@@ -32,7 +32,12 @@ export async function getAllTests() {
         {
             sem: '3',
             subject: 'science',
-            testNames: ['sem3_science_s1_decembre_2025', 'sem3_science_s1_annal_2024_2025']
+            testNames: ['sem3_science_s1_decembre_2025', 'sem3_science_s1_annal_2024_2025','sem3_science_s2_annal_2024_2025']
+        },
+        {
+            sem: '3',
+            subject: 'psycho',
+            testNames: ['sem3_psycho_s2_annal_2024_2025']
         },
         {
             sem: '4',
