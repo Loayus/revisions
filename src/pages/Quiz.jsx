@@ -5,6 +5,14 @@ import InteractiveQuestion from '../components/InteractiveQuestion';
 import ResultsPage from '../components/ResultsPage';
 import './Quiz.css';
 
+const SUBJECT_LABELS = {
+  socio: 'Sociologie',
+  science: 'Sciences',
+  psycho: 'Psychologie',
+  physiologie: 'Physiologie',
+  science_educ: "Sciences de l'éducation",
+};
+
 /* ─── Icônes par index (cycle) ───────────────────────────────────────────── */
 const CARD_ICONS = ["🧪", "📐", "🔬", "🌿", "📊", "⚗️", "🗺️", "🧮"];
 
@@ -62,6 +70,14 @@ export default function Quiz() {
         setShowResults(false);
         setResults([]);
     };
+
+    /* Group tests by subject for sections */
+    const grouped = tests.reduce((acc, t) => {
+        const key = t.subject || 'autre';
+        if (!acc[key]) acc[key] = [];
+        acc[key].push(t);
+        return acc;
+    }, {});
 
     /* ── Loading ── */
     if (loading) return (
@@ -136,7 +152,7 @@ export default function Quiz() {
         </div>
     );
 
-    /* ── Liste des tests ── */
+    /* ── Liste des tests groupée par matière ── */
     return (
         <div className="quiz-page">
             <div className="quiz-page-inner">
@@ -153,30 +169,39 @@ export default function Quiz() {
                         <p>Aucun QCM disponible pour l'instant.</p>
                     </div>
                 ) : (
-                    <div className="quiz-grid">
-                        {tests.map((test, i) => (
-                            <button
-                                key={test.id}
-                                className="quiz-card"
-                                style={{animationDelay: `${i * 0.07 + 0.1}s`}}
-                                onClick={() => {
-                                    setSelectedTest(test);
-                                    setUserAnswers({});
-                                    setShowResults(false);
-                                }}
-                            >
-                                <div className="quiz-card-icon">
-                                    {CARD_ICONS[i % CARD_ICONS.length]}
+                    <div className="quiz-sections">
+                        {Object.keys(grouped).map((subjectKey, sIdx) => (
+                            <section key={subjectKey} style={{marginBottom: '2.25rem'}}>
+                                <h3 style={{margin: '0 0 0.75rem 0'}}>
+                                    {SUBJECT_LABELS[subjectKey] || subjectKey}
+                                </h3>
+                                <div className="quiz-grid">
+                                    {grouped[subjectKey].map((test, i) => (
+                                        <button
+                                            key={test.id}
+                                            className="quiz-card"
+                                            style={{animationDelay: `${i * 0.07 + 0.1}s`}}
+                                            onClick={() => {
+                                                setSelectedTest(test);
+                                                setUserAnswers({});
+                                                setShowResults(false);
+                                            }}
+                                        >
+                                            <div className="quiz-card-icon">
+                                                {CARD_ICONS[i % CARD_ICONS.length]}
+                                            </div>
+                                            <div className="quiz-card-name">{test.name}</div>
+                                            <div className="quiz-card-cta">
+                                                Commencer
+                                                <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+                                                    <path d="M2 6h8M6 2l4 4-4 4" stroke="currentColor" strokeWidth="1.5"
+                                                          strokeLinecap="round" strokeLinejoin="round"/>
+                                                </svg>
+                                            </div>
+                                        </button>
+                                    ))}
                                 </div>
-                                <div className="quiz-card-name">{test.name}</div>
-                                <div className="quiz-card-cta">
-                                    Commencer
-                                    <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
-                                        <path d="M2 6h8M6 2l4 4-4 4" stroke="currentColor" strokeWidth="1.5"
-                                              strokeLinecap="round" strokeLinejoin="round"/>
-                                    </svg>
-                                </div>
-                            </button>
+                            </section>
                         ))}
                     </div>
                 )}

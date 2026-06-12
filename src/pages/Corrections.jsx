@@ -3,6 +3,14 @@ import {getAllTests} from '../services/yamlLoader';
 import Question from '../components/Question';
 import './Corrections.css';
 
+const SUBJECT_LABELS = {
+  socio: 'Sociologie',
+  science: 'Sciences',
+  psycho: 'Psychologie',
+  physiologie: 'Physiologie',
+  science_educ: "Sciences de l'éducation",
+};
+
 const CARD_ICONS = ["🧪", "📐", "🔬", "🌿", "📊", "⚗️", "🗺️", "🧮"];
 
 export default function Corrections() {
@@ -20,6 +28,14 @@ export default function Corrections() {
     const questionKeys = selectedTest
         ? Object.keys(selectedTest.sujet || {}).filter(k => /^Q\d+$/.test(k))
         : [];
+
+    // group by subject
+    const grouped = tests.reduce((acc, t) => {
+        const key = t.subject || 'autre';
+        if (!acc[key]) acc[key] = [];
+        acc[key].push(t);
+        return acc;
+    }, {});
 
     /* ── Loading ── */
     if (loading) return (
@@ -67,14 +83,14 @@ export default function Corrections() {
         </div>
     );
 
-    /* ── Liste ── */
+    /* ── Liste groupée par matière ── */
     return (
         <div className="corr-page">
             <div className="corr-inner">
 
                 <div className="corr-header">
                     <div className="corr-badge">✅ Corrections</div>
-                    <h2>Consulter une <em>correction</em></h2>
+                    <h2>Consulter les <em>corrections</em> par matière</h2>
                     <div className="corr-divider"/>
                 </div>
 
@@ -84,26 +100,33 @@ export default function Corrections() {
                         <p>Aucune correction disponible pour l'instant.</p>
                     </div>
                 ) : (
-                    <div className="corr-grid">
-                        {tests.map((test, i) => (
-                            <button
-                                key={test.id}
-                                className="corr-card"
-                                style={{animationDelay: `${i * 0.07 + 0.1}s`}}
-                                onClick={() => setSelectedTest(test)}
-                            >
-                                <div className="corr-card-icon">
-                                    {CARD_ICONS[i % CARD_ICONS.length]}
+                    <div className="corr-sections">
+                        {Object.keys(grouped).map((subjectKey) => (
+                            <section key={subjectKey} style={{marginBottom: '2.25rem'}}>
+                                <h3 style={{margin: '0 0 0.75rem 0'}}>{SUBJECT_LABELS[subjectKey] || subjectKey}</h3>
+                                <div className="corr-grid">
+                                    {grouped[subjectKey].map((test, i) => (
+                                        <button
+                                            key={test.id}
+                                            className="corr-card"
+                                            style={{animationDelay: `${i * 0.07 + 0.1}s`}}
+                                            onClick={() => setSelectedTest(test)}
+                                        >
+                                            <div className="corr-card-icon">
+                                                {CARD_ICONS[i % CARD_ICONS.length]}
+                                            </div>
+                                            <div className="corr-card-name">{test.name}</div>
+                                            <div className="corr-card-cta">
+                                                Voir la correction
+                                                <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+                                                    <path d="M2 6h8M6 2l4 4-4 4" stroke="currentColor" strokeWidth="1.5"
+                                                          strokeLinecap="round" strokeLinejoin="round"/>
+                                                </svg>
+                                            </div>
+                                        </button>
+                                    ))}
                                 </div>
-                                <div className="corr-card-name">{test.name}</div>
-                                <div className="corr-card-cta">
-                                    Voir la correction
-                                    <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
-                                        <path d="M2 6h8M6 2l4 4-4 4" stroke="currentColor" strokeWidth="1.5"
-                                              strokeLinecap="round" strokeLinejoin="round"/>
-                                    </svg>
-                                </div>
-                            </button>
+                            </section>
                         ))}
                     </div>
                 )}
