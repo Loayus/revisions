@@ -1,11 +1,7 @@
 import {useEffect, useState} from 'react';
 import {getAllTests} from '../services/yamlLoader';
 import Question from '../components/Question';
-
-const css = `
-  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap');
-  /* ... original CSS omitted for brevity in this injection; kept in file unchanged ... */
-`;
+import './Subjects.css';
 
 const SUBJECT_LABELS = {
   socio: 'Sociologie',
@@ -44,7 +40,6 @@ export default function Subjects() {
     /* ── Loading ── */
     if (loading) return (
         <div className="subj-page">
-            <style>{css}</style>
             <div className="subj-loading">
                 <div className="subj-loading-dots"><span/><span/><span/></div>
                 <p className="subj-loading-text">Chargement des sujets…</p>
@@ -55,7 +50,6 @@ export default function Subjects() {
     /* ── Sujet ouvert ── */
     if (selectedTest) return (
         <div className="subj-page">
-            <style>{css}</style>
             <div className="subj-inner">
 
                 <button className="subj-back" onClick={() => setSelectedTest(null)}>
@@ -89,7 +83,6 @@ export default function Subjects() {
     /* ── Liste groupée par matière ── */
     return (
         <div className="subj-page">
-            <style>{css}</style>
             <div className="subj-inner">
 
                 <div className="subj-header">
